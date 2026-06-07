@@ -1,0 +1,174 @@
+- generic [ref=e1]:
+  - img
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - img [ref=e121]
+        - link [ref=e122] [cursor=pointer]:
+          - /url: /
+          - img [ref=e123]
+        - button [ref=e124] [cursor=pointer]: Explore Jobs
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e20]:
+          - generic [ref=e22] [cursor=pointer]:
+            - img [ref=e125]
+            - generic [ref=e26]: Personal Details
+          - generic [ref=e33]:
+            - generic [ref=e34]: Educational Background
+            - generic [ref=e35]: (Step 2/4)
+          - generic [ref=e42] [cursor=pointer]: Work Experience
+          - generic [ref=e49] [cursor=pointer]: Additional Information
+        - generic [ref=e53]:
+          - generic [ref=e54]: Please fill in your Educational Details
+          - generic [ref=e55]: Include your education to create a stronger profile
+          - generic [ref=e58]:
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - paragraph [ref=e61]: Please select at least one primary qualification
+                - paragraph [ref=e62]: Institute*
+                - textbox [ref=e126]:
+                  - /placeholder: Enter your institute name
+                  - text: University of Mumbai
+              - generic [ref=e70]:
+                - paragraph [ref=e71]: Degree*
+                - generic [ref=e74]:
+                  - combobox [expanded] [ref=e127] [cursor=pointer]: Select degree
+                  - textbox
+                  - img
+                - paragraph [ref=e76]: Please select degree
+              - generic [ref=e77]:
+                - paragraph [ref=e78]: Course Type*
+                - generic [ref=e81]:
+                  - combobox [ref=e128] [cursor=pointer]: Select course type
+                  - textbox
+                  - img
+                - paragraph [ref=e83]: Please select course type
+              - generic [ref=e84]:
+                - generic [ref=e85]:
+                  - paragraph [ref=e86]: Start Year*
+                  - generic [ref=e89]:
+                    - combobox [ref=e129] [cursor=pointer]: YYYY
+                    - textbox
+                    - img
+                  - paragraph [ref=e91]: Please select starting year
+                - generic [ref=e92]:
+                  - paragraph [ref=e93]: End Year*
+                  - generic [ref=e96]:
+                    - combobox [ref=e130] [cursor=pointer]: YYYY
+                    - textbox
+                    - img
+                  - paragraph [ref=e98]: Please select ending year
+              - generic [ref=e100]:
+                - generic [ref=e102] [cursor=pointer]:
+                  - checkbox [ref=e131]
+                  - img [ref=e132]
+                - generic [ref=e105]: This is my most relevant / important educational qualification
+            - paragraph [ref=e107] [cursor=pointer]: + Add Degree
+      - generic [ref=e110]:
+        - heading [level=6] [ref=e133] [cursor=pointer]: Back
+        - button [ref=e134] [cursor=pointer]: Save & Next
+  - alert [ref=e117]
+  - listbox [ref=e137]:
+    - option "MBA / PGDM" [active] [ref=e138] [cursor=pointer]:
+      - paragraph [ref=e139]: MBA / PGDM
+    - option "CA" [ref=e140] [cursor=pointer]:
+      - paragraph [ref=e141]: CA
+    - option "CS" [ref=e142] [cursor=pointer]:
+      - paragraph [ref=e143]: CS
+    - option "ICWA" [ref=e144] [cursor=pointer]:
+      - paragraph [ref=e145]: ICWA
+    - option "LLB / LLM" [ref=e146] [cursor=pointer]:
+      - paragraph [ref=e147]: LLB / LLM
+    - option "B Tech / BE" [ref=e148] [cursor=pointer]:
+      - paragraph [ref=e149]: B Tech / BE
+    - option "BArch" [ref=e150] [cursor=pointer]:
+      - paragraph [ref=e151]: BArch
+    - option "MBBS" [ref=e152] [cursor=pointer]:
+      - paragraph [ref=e153]: MBBS
+    - option "BSc" [ref=e154] [cursor=pointer]:
+      - paragraph [ref=e155]: BSc
+    - option "BA" [ref=e156] [cursor=pointer]:
+      - paragraph [ref=e157]: BA
+    - option "Bcom" [ref=e158] [cursor=pointer]:
+      - paragraph [ref=e159]: Bcom
+    - option "BBA" [ref=e160] [cursor=pointer]:
+      - paragraph [ref=e161]: BBA
+    - option "BCA" [ref=e162] [cursor=pointer]:
+      - paragraph [ref=e163]: BCA
+    - option "PhD" [ref=e164] [cursor=pointer]:
+      - paragraph [ref=e165]: PhD
+    - option "MSc / MS / M Tech" [ref=e166] [cursor=pointer]:
+      - paragraph [ref=e167]: MSc / MS / M Tech
+    - option "MCA" [ref=e168] [cursor=pointer]:
+      - paragraph [ref=e169]: MCA
+    - option "MA" [ref=e170] [cursor=pointer]:
+      - paragraph [ref=e171]: MA
+    - option "Integrated Masters Program" [ref=e172] [cursor=pointer]:
+      - paragraph [ref=e173]: Integrated Masters Program
+    - option "CFA" [ref=e174] [cursor=pointer]:
+      - paragraph [ref=e175]: CFA
+    - option "FRM" [ref=e176] [cursor=pointer]:
+      - paragraph [ref=e177]: FRM
+    - option "CWM" [ref=e178] [cursor=pointer]:
+      - paragraph [ref=e179]: CWM
+    - option "AFA" [ref=e180] [cursor=pointer]:
+      - paragraph [ref=e181]: AFA
+    - option "Passed CFA Level 1" [ref=e182] [cursor=pointer]:
+      - paragraph [ref=e183]: Passed CFA Level 1
+    - option "Passed CFA Level 2" [ref=e184] [cursor=pointer]:
+      - paragraph [ref=e185]: Passed CFA Level 2
+    - option "Passed CFA Level 3" [ref=e186] [cursor=pointer]:
+      - paragraph [ref=e187]: Passed CFA Level 3
+    - option "PGDDA" [ref=e188] [cursor=pointer]:
+      - paragraph [ref=e189]: PGDDA
+    - option "Other" [ref=e190] [cursor=pointer]:
+      - paragraph [ref=e191]: Other
+    - option "M.Com" [ref=e192] [cursor=pointer]:
+      - paragraph [ref=e193]: M.Com
+    - option "BVSC" [ref=e194] [cursor=pointer]:
+      - paragraph [ref=e195]: BVSC
+    - option "BAMS" [ref=e196] [cursor=pointer]:
+      - paragraph [ref=e197]: BAMS
+    - option "BHMS" [ref=e198] [cursor=pointer]:
+      - paragraph [ref=e199]: BHMS
+    - option "B.U.M.S" [ref=e200] [cursor=pointer]:
+      - paragraph [ref=e201]: B.U.M.S
+    - option "B.Pharma" [ref=e202] [cursor=pointer]:
+      - paragraph [ref=e203]: B.Pharma
+    - option "BDS" [ref=e204] [cursor=pointer]:
+      - paragraph [ref=e205]: BDS
+    - option "Medical-MS/MD" [ref=e206] [cursor=pointer]:
+      - paragraph [ref=e207]: Medical-MS/MD
+    - option "MVSC" [ref=e208] [cursor=pointer]:
+      - paragraph [ref=e209]: MVSC
+    - option "MDS" [ref=e210] [cursor=pointer]:
+      - paragraph [ref=e211]: MDS
+    - option "M.Ch" [ref=e212] [cursor=pointer]:
+      - paragraph [ref=e213]: M.Ch
+    - option "M.Sc" [ref=e214] [cursor=pointer]:
+      - paragraph [ref=e215]: M.Sc
+    - option "M.Sc Clinical Research" [ref=e216] [cursor=pointer]:
+      - paragraph [ref=e217]: M.Sc Clinical Research
+    - option "M.Sc. Biotechnology" [ref=e218] [cursor=pointer]:
+      - paragraph [ref=e219]: M.Sc. Biotechnology
+    - option "Pharma D" [ref=e220] [cursor=pointer]:
+      - paragraph [ref=e221]: Pharma D
+    - option "MPH" [ref=e222] [cursor=pointer]:
+      - paragraph [ref=e223]: MPH
+    - option "MHA" [ref=e224] [cursor=pointer]:
+      - paragraph [ref=e225]: MHA
+    - option "M. Pharma" [ref=e226] [cursor=pointer]:
+      - paragraph [ref=e227]: M. Pharma
+    - option "BNYS" [ref=e228] [cursor=pointer]:
+      - paragraph [ref=e229]: BNYS
+    - option "D.Pharma" [ref=e230] [cursor=pointer]:
+      - paragraph [ref=e231]: D.Pharma
+    - option "BPT" [ref=e232] [cursor=pointer]:
+      - paragraph [ref=e233]: BPT
+    - option "MPT" [ref=e234] [cursor=pointer]:
+      - paragraph [ref=e235]: MPT
+    - option "BPharma" [ref=e236] [cursor=pointer]:
+      - paragraph [ref=e237]: BPharma
+    - option "M.Tech" [ref=e238] [cursor=pointer]:
+      - paragraph [ref=e239]: M.Tech

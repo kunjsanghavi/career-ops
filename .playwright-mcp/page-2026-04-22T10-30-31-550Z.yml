@@ -1,0 +1,251 @@
+- generic [ref=e1]:
+  - img
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - img [ref=e202]
+        - link [ref=e203] [cursor=pointer]:
+          - /url: /
+          - img [ref=e204]
+        - button [ref=e205] [cursor=pointer]: Explore Jobs
+    - generic [ref=e16]:
+      - generic [ref=e17]:
+        - generic [ref=e20]:
+          - generic [ref=e76] [cursor=pointer]:
+            - img [ref=e206]
+            - generic [ref=e80]: Personal Details
+          - generic [ref=e82] [cursor=pointer]:
+            - img [ref=e207]
+            - generic [ref=e86]: Educational Background
+          - generic [ref=e92]:
+            - generic [ref=e93]: Work Experience
+            - generic [ref=e94]: (Step 3/4)
+          - generic [ref=e100] [cursor=pointer]: Additional Information
+        - generic [ref=e53]:
+          - paragraph [ref=e54]: Please fill in your Work Details
+          - paragraph [ref=e55]: These details help recruiters identify your professional experience
+          - generic [ref=e56]:
+            - paragraph [ref=e58]: What's Your Work Status?*
+            - generic [ref=e59]:
+              - generic [ref=e60] [cursor=pointer]:
+                - paragraph [ref=e61]: I’m experienced
+                - paragraph [ref=e62]: I have work experience (including internships)
+              - generic [ref=e63] [cursor=pointer]:
+                - paragraph [ref=e64]: I’m a fresher
+                - paragraph [ref=e65]: I am a student/ Haven’t worked after graduation
+          - generic [ref=e101]:
+            - generic [ref=e102]:
+              - button [expanded] [ref=e208] [cursor=pointer]:
+                - paragraph [ref=e105]: Add Your Job Preferences
+                - img [ref=e107]
+              - region [ref=e112]:
+                - generic [ref=e114]:
+                  - generic [ref=e116]:
+                    - paragraph [ref=e117]: Industry*
+                    - generic [ref=e119]:
+                      - combobox [expanded] [ref=e209] [cursor=pointer]: Select industry
+                      - textbox: "0"
+                      - img
+                    - generic [ref=e122]:
+                      - paragraph [ref=e123]: Functional area*
+                      - generic [ref=e125]:
+                        - combobox [ref=e210] [cursor=pointer]: Select Functional Area
+                        - textbox: "0"
+                        - img
+                  - generic [ref=e127]:
+                    - paragraph [ref=e128]: Total Work Experience*
+                    - generic [ref=e129]:
+                      - generic [ref=e132]:
+                        - combobox [ref=e211] [cursor=pointer]: "0"
+                        - textbox: "1"
+                        - img
+                      - generic [ref=e136]:
+                        - combobox [ref=e212] [cursor=pointer]: "0"
+                        - textbox: "1"
+                        - img
+                  - generic [ref=e138]:
+                    - paragraph [ref=e139]: Skills Used
+                    - generic [ref=e140]: You can add max 15 skills
+                  - textbox [ref=e213]:
+                    - /placeholder: + Enter a Skill
+                  - generic [ref=e148]:
+                    - generic [ref=e149]:
+                      - paragraph [ref=e151]: Current Annual Salary (INR)*
+                      - generic [ref=e152]:
+                        - generic [ref=e154] [cursor=pointer]:
+                          - checkbox [ref=e214]
+                          - img [ref=e215]
+                        - paragraph [ref=e157]: Confidential
+                    - generic [ref=e160]:
+                      - textbox [ref=e216]:
+                        - /placeholder: Enter your current salary
+                        - text: "0"
+                      - group
+                  - generic [ref=e162]:
+                    - generic [ref=e163]:
+                      - paragraph [ref=e165]: Expected Annual Salary (INR)*
+                      - generic [ref=e166]:
+                        - generic [ref=e168] [cursor=pointer]:
+                          - checkbox [ref=e217]
+                          - img [ref=e218]
+                        - paragraph [ref=e171]: Negotiable
+                    - generic [ref=e174]:
+                      - textbox [ref=e219]:
+                        - /placeholder: Enter your expected salary
+                        - text: "0"
+                      - group
+                  - generic [ref=e177]:
+                    - paragraph [ref=e178]: Notice Period*
+                    - generic [ref=e179]:
+                      - button [ref=e220] [cursor=pointer]:
+                        - generic [ref=e181]: Immediately Available
+                      - button [ref=e221] [cursor=pointer]:
+                        - generic [ref=e183]: 1 month
+                      - button [ref=e222] [cursor=pointer]:
+                        - generic [ref=e185]: 2 months
+                      - button [ref=e223] [cursor=pointer]:
+                        - generic [ref=e187]: 3 months
+                      - button [ref=e224] [cursor=pointer]:
+                        - generic [ref=e189]: 4 months
+                      - button [ref=e225] [cursor=pointer]:
+                        - generic [ref=e191]: 5 months
+                      - button [ref=e226] [cursor=pointer]:
+                        - generic [ref=e193]: 6 months
+            - button [ref=e227] [cursor=pointer]:
+              - paragraph [ref=e198]: Add Your Professional Experience
+              - img [ref=e200]
+      - generic [ref=e68]:
+        - heading [level=6] [ref=e228] [cursor=pointer]: Back
+        - button [ref=e229] [cursor=pointer]: Save & Next
+  - alert [ref=e75]
+  - listbox [ref=e232]:
+    - option "Accounting / Finance / Audit" [active] [ref=e233] [cursor=pointer]:
+      - paragraph [ref=e234]: Accounting / Finance / Audit
+    - option "Advertising / PR / MR / Events" [ref=e235] [cursor=pointer]:
+      - paragraph [ref=e236]: Advertising / PR / MR / Events
+    - option "Agriculture / Dairy" [ref=e237] [cursor=pointer]:
+      - paragraph [ref=e238]: Agriculture / Dairy
+    - option "Animation" [ref=e239] [cursor=pointer]:
+      - paragraph [ref=e240]: Animation
+    - option "Architecture / Interior Design" [ref=e241] [cursor=pointer]:
+      - paragraph [ref=e242]: Architecture / Interior Design
+    - option "Auto / Auto Ancillary" [ref=e243] [cursor=pointer]:
+      - paragraph [ref=e244]: Auto / Auto Ancillary
+    - option "Aviation / Aerospace Firm" [ref=e245] [cursor=pointer]:
+      - paragraph [ref=e246]: Aviation / Aerospace Firm
+    - option "Banking / Financial Services / Broking" [ref=e247] [cursor=pointer]:
+      - paragraph [ref=e248]: Banking / Financial Services / Broking
+    - option "BPO / ITES" [ref=e249] [cursor=pointer]:
+      - paragraph [ref=e250]: BPO / ITES
+    - option "Brewery / Distillery" [ref=e251] [cursor=pointer]:
+      - paragraph [ref=e252]: Brewery / Distillery
+    - option "Ceramics / Sanitary ware" [ref=e253] [cursor=pointer]:
+      - paragraph [ref=e254]: Ceramics / Sanitary ware
+    - option "Chemicals / Petrochemical / Plastic / Rubber" [ref=e255] [cursor=pointer]:
+      - paragraph [ref=e256]: Chemicals / Petrochemical / Plastic / Rubber
+    - option "Construction / Engineering / Cement / Metals" [ref=e257] [cursor=pointer]:
+      - paragraph [ref=e258]: Construction / Engineering / Cement / Metals
+    - option "Consulting" [ref=e259] [cursor=pointer]:
+      - paragraph [ref=e260]: Consulting
+    - option "Consumer Durables" [ref=e261] [cursor=pointer]:
+      - paragraph [ref=e262]: Consumer Durables
+    - option "Courier / Transportation / Freight" [ref=e263] [cursor=pointer]:
+      - paragraph [ref=e264]: Courier / Transportation / Freight
+    - option "Defence / Government" [ref=e265] [cursor=pointer]:
+      - paragraph [ref=e266]: Defence / Government
+    - option "Education / Teaching / Training" [ref=e267] [cursor=pointer]:
+      - paragraph [ref=e268]: Education / Teaching / Training
+    - option "Electricals / Switchgears" [ref=e269] [cursor=pointer]:
+      - paragraph [ref=e270]: Electricals / Switchgears
+    - option "Export / Import" [ref=e271] [cursor=pointer]:
+      - paragraph [ref=e272]: Export / Import
+    - option "Facility Management" [ref=e273] [cursor=pointer]:
+      - paragraph [ref=e274]: Facility Management
+    - option "Fertilizers / Pesticides" [ref=e275] [cursor=pointer]:
+      - paragraph [ref=e276]: Fertilizers / Pesticides
+    - option "FMCG / Foods / Beverage" [ref=e277] [cursor=pointer]:
+      - paragraph [ref=e278]: FMCG / Foods / Beverage
+    - option "Food Processing" [ref=e279] [cursor=pointer]:
+      - paragraph [ref=e280]: Food Processing
+    - option "Gems & Jewellery" [ref=e281] [cursor=pointer]:
+      - paragraph [ref=e282]: Gems & Jewellery
+    - option "Glass" [ref=e283] [cursor=pointer]:
+      - paragraph [ref=e284]: Glass
+    - option "Healthcare / Medical / Hospital" [ref=e285] [cursor=pointer]:
+      - paragraph [ref=e286]: Healthcare / Medical / Hospital
+    - option "Heating Ventilation Air Conditioning" [ref=e287] [cursor=pointer]:
+      - paragraph [ref=e288]: Heating Ventilation Air Conditioning
+    - option "Hotels / Restaurants / Airlines" [ref=e289] [cursor=pointer]:
+      - paragraph [ref=e290]: Hotels / Restaurants / Airlines
+    - option "Industrial Products / Heavy Machinery" [ref=e291] [cursor=pointer]:
+      - paragraph [ref=e292]: Industrial Products / Heavy Machinery
+    - option "Infrastructure / Oil & Gas / Power / Energy" [ref=e293] [cursor=pointer]:
+      - paragraph [ref=e294]: Infrastructure / Oil & Gas / Power / Energy
+    - option "Insurance" [ref=e295] [cursor=pointer]:
+      - paragraph [ref=e296]: Insurance
+    - option "Internet / Online / eCommerce" [ref=e297] [cursor=pointer]:
+      - paragraph [ref=e298]: Internet / Online / eCommerce
+    - option "IT" [ref=e299] [cursor=pointer]:
+      - paragraph [ref=e300]: IT
+    - option "IT-Software / Software Services" [ref=e301] [cursor=pointer]:
+      - paragraph [ref=e302]: IT-Software / Software Services
+    - option "IT-Hardware & Networking" [ref=e303] [cursor=pointer]:
+      - paragraph [ref=e304]: IT-Hardware & Networking
+    - option "KPO / Research / Analytics" [ref=e305] [cursor=pointer]:
+      - paragraph [ref=e306]: KPO / Research / Analytics
+    - option "Legal" [ref=e307] [cursor=pointer]:
+      - paragraph [ref=e308]: Legal
+    - option "Logistics / SCM / Freight / Shipping" [ref=e309] [cursor=pointer]:
+      - paragraph [ref=e310]: Logistics / SCM / Freight / Shipping
+    - option "Manufacturing" [ref=e311] [cursor=pointer]:
+      - paragraph [ref=e312]: Manufacturing
+    - option "Media / Dotcom / Entertainment" [ref=e313] [cursor=pointer]:
+      - paragraph [ref=e314]: Media / Dotcom / Entertainment
+    - option "Medical / Healthcare / Hospital" [ref=e315] [cursor=pointer]:
+      - paragraph [ref=e316]: Medical / Healthcare / Hospital
+    - option "Mining / Steel / Shipping" [ref=e317] [cursor=pointer]:
+      - paragraph [ref=e318]: Mining / Steel / Shipping
+    - option "NGO / Social Service" [ref=e319] [cursor=pointer]:
+      - paragraph [ref=e320]: NGO / Social Service
+    - option "Oil and Gas / Power / Infrastructure / Energy" [ref=e321] [cursor=pointer]:
+      - paragraph [ref=e322]: Oil and Gas / Power / Infrastructure / Energy
+    - option "Office Equipment / Automation" [ref=e323] [cursor=pointer]:
+      - paragraph [ref=e324]: Office Equipment / Automation
+    - option "Paper" [ref=e325] [cursor=pointer]:
+      - paragraph [ref=e326]: Paper
+    - option "Pharma / Biotech / Clinical Research" [ref=e327] [cursor=pointer]:
+      - paragraph [ref=e328]: Pharma / Biotech / Clinical Research
+    - option "Printing / Packaging" [ref=e329] [cursor=pointer]:
+      - paragraph [ref=e330]: Printing / Packaging
+    - option "Publishing" [ref=e331] [cursor=pointer]:
+      - paragraph [ref=e332]: Publishing
+    - option "Real Estate / Property" [ref=e333] [cursor=pointer]:
+      - paragraph [ref=e334]: Real Estate / Property
+    - option "Recruitment / Staffing" [ref=e335] [cursor=pointer]:
+      - paragraph [ref=e336]: Recruitment / Staffing
+    - option "Retail" [ref=e337] [cursor=pointer]:
+      - paragraph [ref=e338]: Retail
+    - option "Security / Law Enforcement" [ref=e339] [cursor=pointer]:
+      - paragraph [ref=e340]: Security / Law Enforcement
+    - option "Semiconductors / Electronics" [ref=e341] [cursor=pointer]:
+      - paragraph [ref=e342]: Semiconductors / Electronics
+    - option "Shipping / Marine" [ref=e343] [cursor=pointer]:
+      - paragraph [ref=e344]: Shipping / Marine
+    - option "Steel" [ref=e345] [cursor=pointer]:
+      - paragraph [ref=e346]: Steel
+    - option "Strategy / Management Consulting Firms" [ref=e347] [cursor=pointer]:
+      - paragraph [ref=e348]: Strategy / Management Consulting Firms
+    - option "Telecom / ISP" [ref=e349] [cursor=pointer]:
+      - paragraph [ref=e350]: Telecom / ISP
+    - option "Textile / Garments / Accessories / Fashion" [ref=e351] [cursor=pointer]:
+      - paragraph [ref=e352]: Textile / Garments / Accessories / Fashion
+    - option "Travel / Hospitality" [ref=e353] [cursor=pointer]:
+      - paragraph [ref=e354]: Travel / Hospitality
+    - option "Tyres" [ref=e355] [cursor=pointer]:
+      - paragraph [ref=e356]: Tyres
+    - option "Water Treatment / Waste Management" [ref=e357] [cursor=pointer]:
+      - paragraph [ref=e358]: Water Treatment / Waste Management
+    - option "Wellness / Fitness / Sports" [ref=e359] [cursor=pointer]:
+      - paragraph [ref=e360]: Wellness / Fitness / Sports
+    - option "Other" [ref=e361] [cursor=pointer]:
+      - paragraph [ref=e362]: Other

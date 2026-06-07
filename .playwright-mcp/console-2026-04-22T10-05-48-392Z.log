@@ -1,0 +1,66 @@
+[     285ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/j/senior-managerdirector-goods-services-tax-ca-firm-1691030:15
+[     295ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[     295ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[     299ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/j/senior-managerdirector-goods-services-tax-ca-firm-1691030:29
+[     860ms] [ERROR] Failed to load resource: the server responded with a status of 401 () @ https://gladiator.iimjobs.com/auth/validate:0
+[     919ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://gladiator.iimjobs.com/user/checkpro:0
+[    1446ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 441169142155511. @ https://connect.facebook.net/en_US/fbevents.js:181
+[   16399ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:84
+[   16404ms] [ERROR] Not signed in with the identity provider. @ https://www.iimjobs.com/j/senior-managerdirector-goods-services-tax-ca-firm-1691030:0
+[   20051ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:85
+[   74653ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/#signup:15
+[   74660ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[   74660ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[   74662ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/:39
+[   75186ms] [VERBOSE] [DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o @ https://www.iimjobs.com/#signup:0
+[   75241ms] [WARNING] [GSI_LOGGER]: Your client application uses one of the Google One Tap prompt UI status methods that may stop functioning when FedCM becomes mandatory. Refer to the migration guide to update your code accordingly and opt-in to FedCM to test your changes. Learn more: https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#display_moment and https://developers.google.com/identity/gsi/web/guides/fedcm-migration?s=dc#skipped_moment @ https://accounts.google.com/gsi/client:84
+[   75246ms] [ERROR] Not signed in with the identity provider. @ https://www.iimjobs.com/#signup:0
+[   75662ms] [ERROR] [GSI_LOGGER]: FedCM get() rejects with NetworkError: Error retrieving a token. @ https://accounts.google.com/gsi/client:85
+[  101571ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/registration/addPersonalDetails?has=1&source=re:15
+[  101574ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/registration/addPersonalDetails?has=1&source=re:29
+[  101579ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  101579ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  114256ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/jobfeed#signup:15
+[  114259ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/jobfeed:29
+[  114271ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  114271ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  114654ms] [LOG] Loaded the story feed @ :92
+[  114663ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  114666ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  115061ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  115062ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  115887ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api-chat.iimjobs.com/v1/permission?userId=:0
+[  115888ms] Uncaught (in promise) Error: Request failed with status code 403
+    at e.exports (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:321039)
+    at e.exports (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:547168)
+    at d.onreadystatechange (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:320053)
+[  115950ms] [LOG] unload @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  116245ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/j/senior-managerdirector-goods-services-tax-ca-firm-1691030:15
+[  116256ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/j/senior-managerdirector-goods-services-tax-ca-firm-1691030:29
+[  116350ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  116350ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  116609ms] [ERROR] Failed to load resource: the server responded with a status of 400 () @ https://gladiator.iimjobs.com/user/checkpro:0
+[  116697ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  116698ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  116713ms] [ERROR] magicsort: fetching data failed @ https://js-static.iimjobs.com/production/8.0.0/_next/static/chunks/pages/_app-fb16af6839cec3d9.js:21
+[  116819ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://api-chat.iimjobs.com/v1/permission?userId=:0
+[  116985ms] Uncaught (in promise) Error: Request failed with status code 403
+    at e.exports (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:321039)
+    at e.exports (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:547168)
+    at d.onreadystatechange (https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0:320053)
+[  117058ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  117059ms] [LOG] undefined @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  117208ms] [WARNING] [Meta Pixel] - Duplicate Pixel ID: 441169142155511. @ https://connect.facebook.net/en_US/fbevents.js:181
+[  165978ms] [LOG] unload @ https://recruiter-static-content.s3.ap-south-1.amazonaws.com/Chat/Production/Jobseeker/StickyChat/bundle.min.js?query=v10:0
+[  166232ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/registration/addPersonalDetails?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:15
+[  166242ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  166242ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  166244ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/registration/addPersonalDetails?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:29
+[  426514ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/registration/addEducationalDetails?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:15
+[  426519ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  426520ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[  426523ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/registration/addEducationalDetails?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:29
+[ 1431921ms] [WARNING] <link rel=preload> has an invalid `href` value @ https://www.iimjobs.com/registration/addWorkExperience?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:15
+[ 1431927ms] [WARNING] Manifest: property 'start_url' ignored, should be same origin as document. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[ 1431927ms] [WARNING] Manifest: property 'scope' ignored. Start url should be within scope of scope URL. @ https://js-static.iimjobs.com/production/8.0.0/manifest.json:0
+[ 1431932ms] [LOG] uba init TrackingEvent [] @ https://www.iimjobs.com/registration/addWorkExperience?profiletype=1&pd=pd&has=1&redirectto=https%3A%2F%2Fwww.iimjobs.com%2Fj%2Fsenior-manager-director-goods-and-services-tax-ca-firm-1691030%3F:29

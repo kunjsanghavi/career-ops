@@ -1,0 +1,1221 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]:
+    - banner [ref=e3]:
+      - generic [ref=e5]:
+        - img "HamburgerMenu" [ref=e7]
+        - link "iimjobs" [ref=e9] [cursor=pointer]:
+          - /url: /
+          - img "iimjobs" [ref=e11]
+        - generic [ref=e12]:
+          - button "Register" [ref=e14] [cursor=pointer]
+          - img "Search" [ref=e17] [cursor=pointer]
+    - generic [ref=e19]:
+      - navigation "breadcrumb" [ref=e22]:
+        - list [ref=e23]:
+          - listitem [ref=e24]:
+            - paragraph [ref=e25]:
+              - link "Home" [ref=e26] [cursor=pointer]:
+                - /url: /
+          - listitem [ref=e27]:
+            - paragraph [ref=e28]: ">"
+          - listitem [ref=e29]:
+            - paragraph [ref=e30]:
+              - link "Banking & Finance" [ref=e31] [cursor=pointer]:
+                - /url: /c/banking-finance-jobs?&ref=breadcrumb_jd
+          - listitem [ref=e32]:
+            - paragraph [ref=e33]: ">"
+          - listitem [ref=e34]:
+            - paragraph [ref=e35]: Senior Manager/Director - Goods & Services Tax - CA Firm
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - img "Logo" [ref=e43]
+              - generic [ref=e44]:
+                - heading "Senior Manager/Director - Goods & Services Tax - CA Firm" [level=1] [ref=e47]
+                - generic [ref=e48]:
+                  - generic [ref=e50]:
+                    - generic [ref=e51]: U.S.Gandhi & Co.
+                    - img "." [ref=e52]
+                    - generic [ref=e53]:
+                      - text: 8 - 15 yrs
+                      - img "." [ref=e54]
+                      - link "Mumbai" [ref=e55] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-mumbai
+                  - generic [ref=e56]: Posted 2 days ago
+            - generic [ref=e57]:
+              - generic [ref=e58]:
+                - link "#Goods & Services Tax" [ref=e59] [cursor=pointer]:
+                  - /url: /k/goods-services-tax-jobs
+                  - generic [ref=e60]: "#Goods & Services Tax"
+                - link "#Indirect Taxation" [ref=e61] [cursor=pointer]:
+                  - /url: /k/indirect-taxation-jobs
+                  - generic [ref=e62]: "#Indirect Taxation"
+                - link "#Litigation" [ref=e63] [cursor=pointer]:
+                  - /url: /k/litigation-jobs
+                  - generic [ref=e64]: "#Litigation"
+                - link "#CA" [ref=e65] [cursor=pointer]:
+                  - /url: /k/ca-jobs
+                  - generic [ref=e66]: "#CA"
+                - link "#Taxation" [ref=e67] [cursor=pointer]:
+                  - /url: /k/taxation-jobs
+                  - generic [ref=e68]: "#Taxation"
+                - link "#LLB" [ref=e69] [cursor=pointer]:
+                  - /url: /k/llb-jobs
+                  - generic [ref=e70]: "#LLB"
+                - link "#Compliance" [ref=e71] [cursor=pointer]:
+                  - /url: /k/compliance-jobs
+                  - generic [ref=e72]: "#Compliance"
+              - generic [ref=e73]:
+                - button "Apply" [ref=e75] [cursor=pointer]
+                - button "Save" [ref=e77] [cursor=pointer]
+          - generic [ref=e78]:
+            - generic [ref=e80]:
+              - paragraph [ref=e84]:
+                - text: We are seeking an experienced Senior Manager/Director - Indirect Tax (GST) to lead and manage the organisation's indirect tax function. The role will be responsible for GST compliance, litigation management, tax advisory, and process optimization while ensuring adherence to regulatory requirements.
+                - text: "Key Responsibilities:"
+                - text: "1. GST Compliance & Filings:"
+                - text: "- Oversee preparation and filing of GST returns (GSTR-1, GSTR-3B, GSTR-9, GSTR-9C)."
+                - text: "- Ensure accurate GST reconciliation including GSTR-2B vs purchase register and sales reconciliation."
+                - text: "- Monitor input tax credit (ITC) eligibility and ensure optimal utilisation."
+                - text: "- Ensure compliance with E-invoicing and E-way bill regulations."
+                - text: "2. GST Assessments, Notices & Litigation:"
+                - text: "- Handle GST notices, audits, assessments, and departmental queries."
+                - text: "- Draft responses and represent the company before GST authorities and consultants where required."
+                - text: "- Manage litigation matters and coordinate with external tax advisors and legal counsels."
+                - text: "3. Tax Advisory & Business Support:"
+                - text: "- Provide GST advisory support to internal stakeholders across finance, procurement, projects, and commercial teams."
+                - text: "- Evaluate tax implications on contracts, vendor arrangements, and business transactions."
+                - text: "- Guide business teams on structuring transactions for tax efficiency and compliance."
+                - text: "4. Process Controls & Compliance Management:"
+                - text: "- Establish and strengthen internal controls for GST compliance and reporting."
+                - text: "- Ensure periodic reconciliations and compliance reviews."
+                - text: "- Support internal and statutory audits related to indirect tax matters."
+                - text: "5. Regulatory Updates:"
+                - text: "- Track changes in GST laws, notifications, and circulars and evaluate their impact on the organisation."
+                - text: "- Implement necessary process changes to ensure compliance with evolving regulations."
+                - text: "6. Team Leadership:"
+                - text: "- Lead and mentor the indirect tax team and coordinate with finance and accounting teams across locations."
+                - text: "Qualification:"
+                - text: "- CA / Lawyer with specialization in Taxation."
+                - text: "- Strong knowledge of GST law, rules, and compliance procedures."
+                - text: "Skills & Competencies:"
+                - text: "- Strong understanding of GST compliance and litigation."
+                - text: "- Experience in handling GST assessments and notices."
+                - text: "- Ability to work closely with business teams and external consultants."
+                - text: "- Strong analytical, communication, and stakeholder management skills."
+                - text: "- Proficiency in ERP systems and GST compliance tools."
+                - text: "Preferred Experience:"
+                - text: "- Experience in EPC, infrastructure, manufacturing, or renewable energy sector will be an advantage."
+                - text: "- Exposure to multi-state GST compliance."
+              - generic [ref=e86]:
+                - button "Apply" [ref=e88] [cursor=pointer]
+                - button "Save" [ref=e90] [cursor=pointer]
+                - generic [ref=e92]:
+                  - paragraph [ref=e93] [cursor=pointer]: Follow Up
+                  - paragraph [ref=e95]: Pro
+            - paragraph [ref=e96]: Didn’t find the job appropriate? Report this Job
+          - generic [ref=e99]:
+            - generic [ref=e101]: Similar jobs that you might be interested in
+            - generic [ref=e102]:
+              - link "logo_1687365 Manager/Senior Manager - Direct Taxation - CA 5 - 8 yrs . Mumbai . star-icon 4.9 grey-divider 7+ Reviews Posted 2 weeks ago" [ref=e107] [cursor=pointer]:
+                - /url: /j/manager-senior-manager-direct-taxation-ca-1687365?ref=rl&jobPos=1
+                - generic [ref=e108]:
+                  - img "logo_1687365" [ref=e110]
+                  - generic [ref=e111]:
+                    - paragraph [ref=e113]: Manager/Senior Manager - Direct Taxation - CA
+                    - generic [ref=e114]:
+                      - generic [ref=e116]:
+                        - generic [ref=e117]: 5 - 8 yrs
+                        - img "." [ref=e118]
+                        - paragraph [ref=e119]: Mumbai
+                        - generic [ref=e120]:
+                          - img "." [ref=e121]
+                          - generic [ref=e122]:
+                            - img "star-icon" [ref=e123]
+                            - paragraph [ref=e124]: "4.9"
+                            - img "grey-divider" [ref=e125]
+                            - paragraph [ref=e126]: 7+ Reviews
+                      - generic [ref=e128]: Posted 2 weeks ago
+              - link "logo_1687669 Senior Manager - Indirect Tax - Goods & Services Tax 8 - 16 yrs . Mumbai Posted 2 weeks ago" [ref=e133] [cursor=pointer]:
+                - /url: /j/senior-manager-indirect-tax-goods-and-services-tax-1687669?ref=rl&jobPos=2
+                - generic [ref=e134]:
+                  - img "logo_1687669" [ref=e136]
+                  - generic [ref=e137]:
+                    - paragraph [ref=e139]: Senior Manager - Indirect Tax - Goods & Services Tax
+                    - generic [ref=e140]:
+                      - generic [ref=e142]:
+                        - generic [ref=e143]: 8 - 16 yrs
+                        - img "." [ref=e144]
+                        - paragraph [ref=e145]: Mumbai
+                      - generic [ref=e147]: Posted 2 weeks ago
+              - link "logo_1687661 Senior Manager/Chief Manager - Taxation - Goods & Services Tax - BFSI 9 - 12 yrs . Mumbai . star-icon 3.9 grey-divider 32+ Reviews Posted 2 weeks ago" [ref=e152] [cursor=pointer]:
+                - /url: /j/senior-manager-chief-manager-taxation-goods-and-services-tax-bfsi-1687661?ref=rl&jobPos=3
+                - generic [ref=e153]:
+                  - img "logo_1687661" [ref=e155]
+                  - generic [ref=e156]:
+                    - paragraph [ref=e158]: Senior Manager/Chief Manager - Taxation - Goods & Services Tax - BFSI
+                    - generic [ref=e159]:
+                      - generic [ref=e161]:
+                        - generic [ref=e162]: 9 - 12 yrs
+                        - img "." [ref=e163]
+                        - paragraph [ref=e164]: Mumbai
+                        - generic [ref=e165]:
+                          - img "." [ref=e166]
+                          - generic [ref=e167]:
+                            - img "star-icon" [ref=e168]
+                            - paragraph [ref=e169]: "3.9"
+                            - img "grey-divider" [ref=e170]
+                            - paragraph [ref=e171]: 32+ Reviews
+                      - generic [ref=e173]: Posted 2 weeks ago
+              - link "logo_1691596 Assistant Manager/Manager/Senior Manager - Mergers & Acquisition Tax - Consulting Firm - CA 3 - 8 yrs . Chennai Posted today" [ref=e178] [cursor=pointer]:
+                - /url: /j/assistant-manager-manager-senior-manager-mergers-and-acquisition-tax-consulting-firm-ca-1691596?ref=rl&jobPos=4
+                - generic [ref=e179]:
+                  - img "logo_1691596" [ref=e181]
+                  - generic [ref=e182]:
+                    - paragraph [ref=e184]: Assistant Manager/Manager/Senior Manager - Mergers & Acquisition Tax - Consulting Firm - CA
+                    - generic [ref=e185]:
+                      - generic [ref=e187]:
+                        - generic [ref=e188]: 3 - 8 yrs
+                        - img "." [ref=e189]
+                        - paragraph [ref=e190]: Chennai
+                      - generic [ref=e192]: Posted today
+              - link "logo_1686548 Manager - FS Deals - Tax/PE Tax - Consulting Firm - CA 5 - 8 yrs . Mumbai Posted 2 weeks ago" [ref=e197] [cursor=pointer]:
+                - /url: /j/manager-fs-deals-tax-pe-tax-consulting-firm-ca-1686548?ref=rl&jobPos=5
+                - generic [ref=e198]:
+                  - img "logo_1686548" [ref=e200]
+                  - generic [ref=e201]:
+                    - paragraph [ref=e203]: Manager - FS Deals - Tax/PE Tax - Consulting Firm - CA
+                    - generic [ref=e204]:
+                      - generic [ref=e206]:
+                        - generic [ref=e207]: 5 - 8 yrs
+                        - img "." [ref=e208]
+                        - paragraph [ref=e209]: Mumbai
+                      - generic [ref=e211]: Posted 2 weeks ago
+              - link "logo_1685297 Manager/Senior Manager - International Tax 11 - 15 yrs . Gurgaon/Gurugram . star-icon 4.5 grey-divider 20+ Reviews Posted 3 weeks ago" [ref=e216] [cursor=pointer]:
+                - /url: /j/manager-senior-manager-international-tax-1685297?ref=rl&jobPos=6
+                - generic [ref=e217]:
+                  - img "logo_1685297" [ref=e219]
+                  - generic [ref=e220]:
+                    - paragraph [ref=e222]: Manager/Senior Manager - International Tax
+                    - generic [ref=e223]:
+                      - generic [ref=e225]:
+                        - generic [ref=e226]: 11 - 15 yrs
+                        - img "." [ref=e227]
+                        - paragraph [ref=e228]: Gurgaon/Gurugram
+                        - generic [ref=e229]:
+                          - img "." [ref=e230]
+                          - generic [ref=e231]:
+                            - img "star-icon" [ref=e232]
+                            - paragraph [ref=e233]: "4.5"
+                            - img "grey-divider" [ref=e234]
+                            - paragraph [ref=e235]: 20+ Reviews
+                      - generic [ref=e237]: Posted 3 weeks ago
+              - link "logo_1687289 Director - Tax & Regulatory Services - CA 11 - 18 yrs . Delhi Posted 2 weeks ago" [ref=e242] [cursor=pointer]:
+                - /url: /j/director-tax-and-regulatory-services-ca-1687289?ref=rl&jobPos=7
+                - generic [ref=e243]:
+                  - img "logo_1687289" [ref=e245]
+                  - generic [ref=e246]:
+                    - paragraph [ref=e248]: Director - Tax & Regulatory Services - CA
+                    - generic [ref=e249]:
+                      - generic [ref=e251]:
+                        - generic [ref=e252]: 11 - 18 yrs
+                        - img "." [ref=e253]
+                        - paragraph [ref=e254]: Delhi
+                      - generic [ref=e256]: Posted 2 weeks ago
+              - link "logo_1684605 Manager - Taxation - CA 4 - 10 yrs . Mumbai Posted 4 weeks ago" [ref=e261] [cursor=pointer]:
+                - /url: /j/manager-taxation-ca-1684605?ref=rl&jobPos=8
+                - generic [ref=e262]:
+                  - img "logo_1684605" [ref=e264]
+                  - generic [ref=e265]:
+                    - paragraph [ref=e267]: Manager - Taxation - CA
+                    - generic [ref=e268]:
+                      - generic [ref=e270]:
+                        - generic [ref=e271]: 4 - 10 yrs
+                        - img "." [ref=e272]
+                        - paragraph [ref=e273]: Mumbai
+                      - generic [ref=e275]: Posted 4 weeks ago
+              - link "logo_1687046 Avantor - Senior Manager - Tax 8 - 14 yrs . Pune/Others Posted 2 weeks ago" [ref=e280] [cursor=pointer]:
+                - /url: /j/avantor-senior-manager-tax-1687046?ref=rl&jobPos=9
+                - generic [ref=e281]:
+                  - img "logo_1687046" [ref=e283]
+                  - generic [ref=e284]:
+                    - paragraph [ref=e286]: Avantor - Senior Manager - Tax
+                    - generic [ref=e287]:
+                      - generic [ref=e289]:
+                        - generic [ref=e290]: 8 - 14 yrs
+                        - img "." [ref=e291]
+                        - paragraph [ref=e292]: Pune/Others
+                      - generic [ref=e294]: Posted 2 weeks ago
+              - link "logo_1689317 Senior Manager - Global Taxation - Global Solution Centre 11 - 15 yrs . Gurgaon/Gurugram Posted 1 week ago" [ref=e299] [cursor=pointer]:
+                - /url: /j/senior-manager-global-taxation-global-solution-centre-1689317?ref=rl&jobPos=10
+                - generic [ref=e300]:
+                  - img "logo_1689317" [ref=e302]
+                  - generic [ref=e303]:
+                    - paragraph [ref=e305]: Senior Manager - Global Taxation - Global Solution Centre
+                    - generic [ref=e306]:
+                      - generic [ref=e308]:
+                        - generic [ref=e309]: 11 - 15 yrs
+                        - img "." [ref=e310]
+                        - paragraph [ref=e311]: Gurgaon/Gurugram
+                      - generic [ref=e313]: Posted 1 week ago
+              - generic [ref=e314]:
+                - link "logo_1686296 Manager/Senior Associate/Consultant - UK Corporate Tax - Consulting Firm 3 - 9 yrs . Gurgaon/Gurugram/Bangalore . star-icon 4.7 grey-divider 6+ Reviews Posted 3 weeks ago" [ref=e318] [cursor=pointer]:
+                  - /url: /j/manager-senior-associate-consultant-uk-corporate-tax-consulting-firm-1686296?ref=rl&jobPos=11
+                  - generic [ref=e319]:
+                    - img "logo_1686296" [ref=e321]
+                    - generic [ref=e322]:
+                      - paragraph [ref=e324]: Manager/Senior Associate/Consultant - UK Corporate Tax - Consulting Firm
+                      - generic [ref=e325]:
+                        - generic [ref=e327]:
+                          - generic [ref=e328]: 3 - 9 yrs
+                          - img "." [ref=e329]
+                          - paragraph [ref=e330]: Gurgaon/Gurugram/Bangalore
+                          - generic [ref=e331]:
+                            - img "." [ref=e332]
+                            - generic [ref=e333]:
+                              - img "star-icon" [ref=e334]
+                              - paragraph [ref=e335]: "4.7"
+                              - img "grey-divider" [ref=e336]
+                              - paragraph [ref=e337]: 6+ Reviews
+                        - generic [ref=e339]: Posted 3 weeks ago
+                - link "course image Post Graduate Certificate Programme for Emerging CFOs (Batch 02) by IIM Nagpur View Course" [ref=e341] [cursor=pointer]:
+                  - /url: https://www.iimjobs.com/course/post-graduate-certificate-programme-for-emerging-cfos-batch-02-2864?ref=lc&reforg=learning&refinv=learning?reforg=learningcat&refinv=nativebanner
+                  - generic [ref=e342]:
+                    - img "course image" [ref=e345]
+                    - generic [ref=e346]:
+                      - paragraph [ref=e347]: Post Graduate Certificate Programme for Emerging CFOs (Batch 02) by IIM Nagpur
+                      - button "View Course" [ref=e348]
+              - link "logo_1684374 Senior Manager - Financial Due Diligence - CA 8 - 15 yrs . Mumbai Posted 4 weeks ago" [ref=e353] [cursor=pointer]:
+                - /url: /j/senior-manager-financial-due-diligence-ca-1684374?ref=rl&jobPos=12
+                - generic [ref=e354]:
+                  - img "logo_1684374" [ref=e356]
+                  - generic [ref=e357]:
+                    - paragraph [ref=e359]: Senior Manager - Financial Due Diligence - CA
+                    - generic [ref=e360]:
+                      - generic [ref=e362]:
+                        - generic [ref=e363]: 8 - 15 yrs
+                        - img "." [ref=e364]
+                        - paragraph [ref=e365]: Mumbai
+                      - generic [ref=e367]: Posted 4 weeks ago
+              - link "logo_1685878 Assistant General Manager/Deputy General Manager - Indirect Taxation - CA 13 - 20 yrs . Bhopal/MP Posted 3 weeks ago" [ref=e372] [cursor=pointer]:
+                - /url: /j/assistant-general-manager-deputy-general-manager-indirect-taxation-ca-1685878?ref=rl&jobPos=13
+                - generic [ref=e373]:
+                  - img "logo_1685878" [ref=e375]
+                  - generic [ref=e376]:
+                    - paragraph [ref=e378]: Assistant General Manager/Deputy General Manager - Indirect Taxation - CA
+                    - generic [ref=e379]:
+                      - generic [ref=e381]:
+                        - generic [ref=e382]: 13 - 20 yrs
+                        - img "." [ref=e383]
+                        - paragraph [ref=e384]: Bhopal/MP
+                      - generic [ref=e386]: Posted 3 weeks ago
+              - link "logo_1690576 Assistant General Manager/Deputy General Manager - Tax Litigation - CA/LLB 10 - 15 yrs . Bangalore . star-icon 4.1 grey-divider 27+ Reviews Posted 5 days ago" [ref=e391] [cursor=pointer]:
+                - /url: /j/assistant-general-manager-deputy-general-manager-tax-litigation-ca-llb-1690576?ref=rl&jobPos=14
+                - generic [ref=e392]:
+                  - img "logo_1690576" [ref=e394]
+                  - generic [ref=e395]:
+                    - paragraph [ref=e397]: Assistant General Manager/Deputy General Manager - Tax Litigation - CA/LLB
+                    - generic [ref=e398]:
+                      - generic [ref=e400]:
+                        - generic [ref=e401]: 10 - 15 yrs
+                        - img "." [ref=e402]
+                        - paragraph [ref=e403]: Bangalore
+                        - generic [ref=e404]:
+                          - img "." [ref=e405]
+                          - generic [ref=e406]:
+                            - img "star-icon" [ref=e407]
+                            - paragraph [ref=e408]: "4.1"
+                            - img "grey-divider" [ref=e409]
+                            - paragraph [ref=e410]: 27+ Reviews
+                      - generic [ref=e412]: Posted 5 days ago
+              - link "logo_1684670 Finance Manager - Duties & Taxes - CA 8 - 15 yrs . Hyderabad/Mumbai Posted 4 weeks ago" [ref=e417] [cursor=pointer]:
+                - /url: /j/finance-manager-duties-and-taxes-ca-1684670?ref=rl&jobPos=15
+                - generic [ref=e418]:
+                  - img "logo_1684670" [ref=e420]
+                  - generic [ref=e421]:
+                    - paragraph [ref=e423]: Finance Manager - Duties & Taxes - CA
+                    - generic [ref=e424]:
+                      - generic [ref=e426]:
+                        - generic [ref=e427]: 8 - 15 yrs
+                        - img "." [ref=e428]
+                        - paragraph [ref=e429]: Hyderabad/Mumbai
+                      - generic [ref=e431]: Posted 4 weeks ago
+              - link "logo_1688191 GP Kapadia & Company - Deputy Manager/Manager - Tax - CA premium_icon 6 - 15 yrs . Mumbai Posted 2 weeks ago" [ref=e436] [cursor=pointer]:
+                - /url: /j/gp-kapadia-and-company-deputy-manager-manager-tax-ca-1688191?ref=rl&jobPos=16
+                - generic [ref=e437]:
+                  - img "logo_1688191" [ref=e439]
+                  - generic [ref=e440]:
+                    - generic [ref=e441]:
+                      - paragraph [ref=e442]: GP Kapadia & Company - Deputy Manager/Manager - Tax - CA
+                      - img "premium_icon" [ref=e444]
+                    - generic [ref=e445]:
+                      - generic [ref=e447]:
+                        - generic [ref=e448]: 6 - 15 yrs
+                        - img "." [ref=e449]
+                        - paragraph [ref=e450]: Mumbai
+                      - generic [ref=e452]: Posted 2 weeks ago
+              - link "logo_1686238 Manager - Tax 4 - 10 yrs . Bangalore Posted 3 weeks ago" [ref=e457] [cursor=pointer]:
+                - /url: /j/manager-tax-1686238?ref=rl&jobPos=17
+                - generic [ref=e458]:
+                  - img "logo_1686238" [ref=e460]
+                  - generic [ref=e461]:
+                    - paragraph [ref=e463]: Manager - Tax
+                    - generic [ref=e464]:
+                      - generic [ref=e466]:
+                        - generic [ref=e467]: 4 - 10 yrs
+                        - img "." [ref=e468]
+                        - paragraph [ref=e469]: Bangalore
+                      - generic [ref=e471]: Posted 3 weeks ago
+              - link "logo_1685716 Manager - Taxation 2 - 10 yrs . Bangalore Posted 3 weeks ago" [ref=e476] [cursor=pointer]:
+                - /url: /j/manager-taxation-1685716?ref=rl&jobPos=18
+                - generic [ref=e477]:
+                  - img "logo_1685716" [ref=e479]
+                  - generic [ref=e480]:
+                    - paragraph [ref=e482]: Manager - Taxation
+                    - generic [ref=e483]:
+                      - generic [ref=e485]:
+                        - generic [ref=e486]: 2 - 10 yrs
+                        - img "." [ref=e487]
+                        - paragraph [ref=e488]: Bangalore
+                      - generic [ref=e490]: Posted 3 weeks ago
+              - link "logo_1689307 Deputy General Manager/Senior Manager - Treasury & MIS - Manufacturing Firm - CA 10 - 15 yrs . Mumbai . star-icon 3.8 grey-divider 27+ Reviews Posted 1 week ago" [ref=e495] [cursor=pointer]:
+                - /url: /j/deputy-general-manager-senior-manager-treasury-and-mis-manufacturing-firm-ca-1689307?ref=rl&jobPos=19
+                - generic [ref=e496]:
+                  - img "logo_1689307" [ref=e498]
+                  - generic [ref=e499]:
+                    - paragraph [ref=e501]: Deputy General Manager/Senior Manager - Treasury & MIS - Manufacturing Firm - CA
+                    - generic [ref=e502]:
+                      - generic [ref=e504]:
+                        - generic [ref=e505]: 10 - 15 yrs
+                        - img "." [ref=e506]
+                        - paragraph [ref=e507]: Mumbai
+                        - generic [ref=e508]:
+                          - img "." [ref=e509]
+                          - generic [ref=e510]:
+                            - img "star-icon" [ref=e511]
+                            - paragraph [ref=e512]: "3.8"
+                            - img "grey-divider" [ref=e513]
+                            - paragraph [ref=e514]: 27+ Reviews
+                      - generic [ref=e516]: Posted 1 week ago
+              - link "logo_1688613 Manager - GST/Indirect Taxation - Manufacturing Firm 5 - 8 yrs . Bangalore Posted 1 week ago" [ref=e521] [cursor=pointer]:
+                - /url: /j/manager-gst-indirect-taxation-manufacturing-firm-1688613?ref=rl&jobPos=20
+                - generic [ref=e522]:
+                  - img "logo_1688613" [ref=e524]
+                  - generic [ref=e525]:
+                    - paragraph [ref=e527]: Manager - GST/Indirect Taxation - Manufacturing Firm
+                    - generic [ref=e528]:
+                      - generic [ref=e530]:
+                        - generic [ref=e531]: 5 - 8 yrs
+                        - img "." [ref=e532]
+                        - paragraph [ref=e533]: Bangalore
+                      - generic [ref=e535]: Posted 1 week ago
+              - generic [ref=e536]:
+                - link "logo_1684950 Senior Manager - Forex & Treasury - CA 11 - 15 yrs . Mumbai Posted 3 weeks ago" [ref=e540] [cursor=pointer]:
+                  - /url: /j/senior-manager-forex-and-treasury-ca-1684950?ref=rl&jobPos=21
+                  - generic [ref=e541]:
+                    - img "logo_1684950" [ref=e543]
+                    - generic [ref=e544]:
+                      - paragraph [ref=e546]: Senior Manager - Forex & Treasury - CA
+                      - generic [ref=e547]:
+                        - generic [ref=e549]:
+                          - generic [ref=e550]: 11 - 15 yrs
+                          - img "." [ref=e551]
+                          - paragraph [ref=e552]: Mumbai
+                        - generic [ref=e554]: Posted 3 weeks ago
+                - 'link "course image Global Senior Leadership Programme Specialisation: Chief Finance Officer by IIM Lucknow View Course" [ref=e556] [cursor=pointer]':
+                  - /url: https://www.iimjobs.com/course/iim-lucknow-global-senior-leadership-programme-specialisation-chief-finance-officer-2878?ref=lc&reforg=learning&refinv=learning?reforg=learningcat&refinv=nativebanner
+                  - generic [ref=e557]:
+                    - img "course image" [ref=e560]
+                    - generic [ref=e561]:
+                      - paragraph [ref=e562]: "Global Senior Leadership Programme Specialisation: Chief Finance Officer by IIM Lucknow"
+                      - button "View Course" [ref=e563]
+              - link "logo_1684454 Senior Manager - Finance - Retail/D2C - CA 7 - 10 yrs . Bangalore Posted 4 weeks ago" [ref=e568] [cursor=pointer]:
+                - /url: /j/senior-manager-finance-retail-d2c-ca-1684454?ref=rl&jobPos=22
+                - generic [ref=e569]:
+                  - img "logo_1684454" [ref=e571]
+                  - generic [ref=e572]:
+                    - paragraph [ref=e574]: Senior Manager - Finance - Retail/D2C - CA
+                    - generic [ref=e575]:
+                      - generic [ref=e577]:
+                        - generic [ref=e578]: 7 - 10 yrs
+                        - img "." [ref=e579]
+                        - paragraph [ref=e580]: Bangalore
+                      - generic [ref=e582]: Posted 4 weeks ago
+              - link "logo_1688466 General Manager - International Tax - Pharma - CA 12 - 18 yrs . Mumbai . star-icon 3.8 grey-divider 27+ Reviews Posted 1 week ago" [ref=e587] [cursor=pointer]:
+                - /url: /j/general-manager-international-tax-pharma-ca-1688466?ref=rl&jobPos=23
+                - generic [ref=e588]:
+                  - img "logo_1688466" [ref=e590]
+                  - generic [ref=e591]:
+                    - paragraph [ref=e593]: General Manager - International Tax - Pharma - CA
+                    - generic [ref=e594]:
+                      - generic [ref=e596]:
+                        - generic [ref=e597]: 12 - 18 yrs
+                        - img "." [ref=e598]
+                        - paragraph [ref=e599]: Mumbai
+                        - generic [ref=e600]:
+                          - img "." [ref=e601]
+                          - generic [ref=e602]:
+                            - img "star-icon" [ref=e603]
+                            - paragraph [ref=e604]: "3.8"
+                            - img "grey-divider" [ref=e605]
+                            - paragraph [ref=e606]: 27+ Reviews
+                      - generic [ref=e608]: Posted 1 week ago
+              - link "Logo Senior Manager - Finance - Manufacturing Firm - CA 6 - 12 yrs . Others Posted 1 week ago" [ref=e613] [cursor=pointer]:
+                - /url: /j/senior-manager-finance-manufacturing-firm-ca-1688969?ref=rl&jobPos=24
+                - generic [ref=e614]:
+                  - img "Logo" [ref=e617]
+                  - generic [ref=e618]:
+                    - paragraph [ref=e620]: Senior Manager - Finance - Manufacturing Firm - CA
+                    - generic [ref=e621]:
+                      - generic [ref=e623]:
+                        - generic [ref=e624]: 6 - 12 yrs
+                        - img "." [ref=e625]
+                        - paragraph [ref=e626]: Others
+                      - generic [ref=e628]: Posted 1 week ago
+              - generic [ref=e629]:
+                - link "Logo Senior Manager - Accounts & Finance - CA 6 - 10 yrs . Bangalore Posted 2 days ago" [ref=e633] [cursor=pointer]:
+                  - /url: /j/senior-manager-accounts-and-finance-ca-1690974?ref=rl&jobPos=25
+                  - generic [ref=e634]:
+                    - img "Logo" [ref=e637]
+                    - generic [ref=e638]:
+                      - paragraph [ref=e640]: Senior Manager - Accounts & Finance - CA
+                      - generic [ref=e641]:
+                        - generic [ref=e643]:
+                          - generic [ref=e644]: 6 - 10 yrs
+                          - img "." [ref=e645]
+                          - paragraph [ref=e646]: Bangalore
+                        - generic [ref=e648]: Posted 2 days ago
+                - generic [ref=e649]:
+                  - heading "Banking & Finance Jobs in major cities" [level=2] [ref=e650]
+                  - generic [ref=e651]:
+                    - generic [ref=e652]:
+                      - img "Logo" [ref=e654]
+                      - link "Banking & Finance Jobs in Mumbai" [ref=e655] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-mumbai
+                    - generic [ref=e656]:
+                      - img "Logo" [ref=e658]
+                      - link "Banking & Finance Jobs in Bangalore" [ref=e659] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-bangalore
+                    - generic [ref=e660]:
+                      - img "Logo" [ref=e662]
+                      - link "Banking & Finance Jobs in Delhi NCR" [ref=e663] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-delhi-ncr
+                    - generic [ref=e664]:
+                      - img "Logo" [ref=e666]
+                      - link "Banking & Finance Jobs in Hyderabad" [ref=e667] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-hyderabad
+                    - generic [ref=e668]:
+                      - img "Logo" [ref=e670]
+                      - link "Banking & Finance Jobs in Chennai" [ref=e671] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-chennai
+                    - generic [ref=e672]:
+                      - img "Logo" [ref=e674]
+                      - link "Banking & Finance Jobs in Pune" [ref=e675] [cursor=pointer]:
+                        - /url: /banking-finance-jobs-in-pune
+              - link "logo_1688333 Lenskart - Senior Manager - Financial Reporting & Consolidation - CA premium_icon 7 - 10 yrs . Gurgaon/Gurugram Posted 2 weeks ago" [ref=e680] [cursor=pointer]:
+                - /url: /j/lenskart-senior-manager-financial-reporting-and-consolidation-ca-1688333?ref=rl&jobPos=26
+                - generic [ref=e681]:
+                  - img "logo_1688333" [ref=e683]
+                  - generic [ref=e684]:
+                    - generic [ref=e685]:
+                      - paragraph [ref=e686]: Lenskart - Senior Manager - Financial Reporting & Consolidation - CA
+                      - img "premium_icon" [ref=e688]
+                    - generic [ref=e689]:
+                      - generic [ref=e691]:
+                        - generic [ref=e692]: 7 - 10 yrs
+                        - img "." [ref=e693]
+                        - paragraph [ref=e694]: Gurgaon/Gurugram
+                      - generic [ref=e696]: Posted 2 weeks ago
+              - link "logo_1688143 Finance Manager - Taxation - Pharma/Derma - CA 5 - 8 yrs . Mumbai Posted 2 weeks ago" [ref=e701] [cursor=pointer]:
+                - /url: /j/finance-manager-taxation-pharma-derma-ca-1688143?ref=rl&jobPos=27
+                - generic [ref=e702]:
+                  - img "logo_1688143" [ref=e704]
+                  - generic [ref=e705]:
+                    - paragraph [ref=e707]: Finance Manager - Taxation - Pharma/Derma - CA
+                    - generic [ref=e708]:
+                      - generic [ref=e710]:
+                        - generic [ref=e711]: 5 - 8 yrs
+                        - img "." [ref=e712]
+                        - paragraph [ref=e713]: Mumbai
+                      - generic [ref=e715]: Posted 2 weeks ago
+              - link "logo_1684315 RSM - Supervisor - US Tax - Private Equity Fund - CA 4 - 9 yrs . Bangalore Posted 4 weeks ago" [ref=e720] [cursor=pointer]:
+                - /url: /j/rsm-supervisor-us-tax-private-equity-fund-ca-1684315?ref=rl&jobPos=28
+                - generic [ref=e721]:
+                  - img "logo_1684315" [ref=e723]
+                  - generic [ref=e724]:
+                    - paragraph [ref=e726]: RSM - Supervisor - US Tax - Private Equity Fund - CA
+                    - generic [ref=e727]:
+                      - generic [ref=e729]:
+                        - generic [ref=e730]: 4 - 9 yrs
+                        - img "." [ref=e731]
+                        - paragraph [ref=e732]: Bangalore
+                      - generic [ref=e734]: Posted 4 weeks ago
+              - link "logo_1685551 Head - Tax & Treasury - Manufacturing Firm 13 - 20 yrs . Bangalore . star-icon 4.3 grey-divider 6+ Reviews Posted 3 weeks ago" [ref=e739] [cursor=pointer]:
+                - /url: /j/head-tax-and-treasury-manufacturing-firm-1685551?ref=rl&jobPos=29
+                - generic [ref=e740]:
+                  - img "logo_1685551" [ref=e742]
+                  - generic [ref=e743]:
+                    - paragraph [ref=e745]: Head - Tax & Treasury - Manufacturing Firm
+                    - generic [ref=e746]:
+                      - generic [ref=e748]:
+                        - generic [ref=e749]: 13 - 20 yrs
+                        - img "." [ref=e750]
+                        - paragraph [ref=e751]: Bangalore
+                        - generic [ref=e752]:
+                          - img "." [ref=e753]
+                          - generic [ref=e754]:
+                            - img "star-icon" [ref=e755]
+                            - paragraph [ref=e756]: "4.3"
+                            - img "grey-divider" [ref=e757]
+                            - paragraph [ref=e758]: 6+ Reviews
+                      - generic [ref=e760]: Posted 3 weeks ago
+              - link "logo_1688477 Senior Manager/General Manager/Assistant Vice President - Finance - CA 10 - 20 yrs . Gurgaon/Gurugram Posted 1 week ago" [ref=e765] [cursor=pointer]:
+                - /url: /j/senior-manager-general-manager-assistant-vice-president-finance-ca-1688477?ref=rl&jobPos=30
+                - generic [ref=e766]:
+                  - img "logo_1688477" [ref=e768]
+                  - generic [ref=e769]:
+                    - paragraph [ref=e771]: Senior Manager/General Manager/Assistant Vice President - Finance - CA
+                    - generic [ref=e772]:
+                      - generic [ref=e774]:
+                        - generic [ref=e775]: 10 - 20 yrs
+                        - img "." [ref=e776]
+                        - paragraph [ref=e777]: Gurgaon/Gurugram
+                      - generic [ref=e779]: Posted 1 week ago
+              - generic [ref=e780]:
+                - link "Logo SourceIN Solutions - Manager - US Tax 8 - 10 yrs . Ahmedabad/Gujarat Posted 2 weeks ago" [ref=e784] [cursor=pointer]:
+                  - /url: /j/sourcein-solutions-manager-us-tax-1687045?ref=rl&jobPos=31
+                  - generic [ref=e785]:
+                    - img "Logo" [ref=e788]
+                    - generic [ref=e789]:
+                      - paragraph [ref=e791]: SourceIN Solutions - Manager - US Tax
+                      - generic [ref=e792]:
+                        - generic [ref=e794]:
+                          - generic [ref=e795]: 8 - 10 yrs
+                          - img "." [ref=e796]
+                          - paragraph [ref=e797]: Ahmedabad/Gujarat
+                        - generic [ref=e799]: Posted 2 weeks ago
+                - link "course image Senior Executive Development Programme in Transformational Leadership for CXOs by XLRI Jamshedpur View Course" [ref=e801] [cursor=pointer]:
+                  - /url: https://www.iimjobs.com/course/xlri-jamshedpur-senior-executive-development-programme-in-transformational-leadership-for-cxos-2884?ref=lc&reforg=learning&refinv=learning?reforg=learningcat&refinv=nativebanner
+                  - generic [ref=e802]:
+                    - img "course image" [ref=e805]
+                    - generic [ref=e806]:
+                      - paragraph [ref=e807]: Senior Executive Development Programme in Transformational Leadership for CXOs by XLRI Jamshedpur
+                      - button "View Course" [ref=e808]
+              - link "logo_1688639 Senior Vice President/Vice President - International Tax Compliance premium_icon 12 - 15 yrs . Bangalore . star-icon 3.8 grey-divider 99+ Reviews Posted 1 week ago" [ref=e813] [cursor=pointer]:
+                - /url: /j/senior-vice-president-vice-president-international-tax-compliance-1688639?ref=rl&jobPos=32
+                - generic [ref=e814]:
+                  - img "logo_1688639" [ref=e816]
+                  - generic [ref=e817]:
+                    - generic [ref=e818]:
+                      - paragraph [ref=e819]: Senior Vice President/Vice President - International Tax Compliance
+                      - img "premium_icon" [ref=e821]
+                    - generic [ref=e822]:
+                      - generic [ref=e824]:
+                        - generic [ref=e825]: 12 - 15 yrs
+                        - img "." [ref=e826]
+                        - paragraph [ref=e827]: Bangalore
+                        - generic [ref=e828]:
+                          - img "." [ref=e829]
+                          - generic [ref=e830]:
+                            - img "star-icon" [ref=e831]
+                            - paragraph [ref=e832]: "3.8"
+                            - img "grey-divider" [ref=e833]
+                            - paragraph [ref=e834]: 99+ Reviews
+                      - generic [ref=e836]: Posted 1 week ago
+              - link "logo_1685516 US Tax Manager - 1040 - Individual Taxation - CA/CPA 7 - 12 yrs . Multiple Locations Posted 3 weeks ago" [ref=e841] [cursor=pointer]:
+                - /url: /j/us-tax-manager-1040-individual-taxation-ca-cpa-1685516?ref=rl&jobPos=33
+                - generic [ref=e842]:
+                  - img "logo_1685516" [ref=e844]
+                  - generic [ref=e845]:
+                    - paragraph [ref=e847]: US Tax Manager - 1040 - Individual Taxation - CA/CPA
+                    - generic [ref=e848]:
+                      - generic [ref=e850]:
+                        - generic [ref=e851]: 7 - 12 yrs
+                        - img "." [ref=e852]
+                        - paragraph [ref=e853]: Multiple Locations
+                      - generic [ref=e855]: Posted 3 weeks ago
+              - link "logo_1684233 Michelin - Tax Analyst - CA 5 - 8 yrs . Pune/Maharashtra Posted 4 weeks ago" [ref=e860] [cursor=pointer]:
+                - /url: /j/michelin-tax-analyst-ca-1684233?ref=rl&jobPos=34
+                - generic [ref=e861]:
+                  - img "logo_1684233" [ref=e863]
+                  - generic [ref=e864]:
+                    - paragraph [ref=e866]: Michelin - Tax Analyst - CA
+                    - generic [ref=e867]:
+                      - generic [ref=e869]:
+                        - generic [ref=e870]: 5 - 8 yrs
+                        - img "." [ref=e871]
+                        - paragraph [ref=e872]: Pune/Maharashtra
+                      - generic [ref=e874]: Posted 4 weeks ago
+              - link "logo_1687828 Senior Manager/Assistant General Manager - Legal - Manufacturing 10 - 15 yrs . Mumbai Posted 2 weeks ago" [ref=e879] [cursor=pointer]:
+                - /url: /j/senior-manager-assistant-general-manager-legal-manufacturing-1687828?ref=rl&jobPos=35
+                - generic [ref=e880]:
+                  - img "logo_1687828" [ref=e882]
+                  - generic [ref=e883]:
+                    - paragraph [ref=e885]: Senior Manager/Assistant General Manager - Legal - Manufacturing
+                    - generic [ref=e886]:
+                      - generic [ref=e888]:
+                        - generic [ref=e889]: 10 - 15 yrs
+                        - img "." [ref=e890]
+                        - paragraph [ref=e891]: Mumbai
+                      - generic [ref=e893]: Posted 2 weeks ago
+              - link "logo_1690442 Manager - Accounting Advisory - Consulting Firm - CA 5 - 8 yrs . Mumbai/Gurgaon/Gurugram Posted 5 days ago" [ref=e898] [cursor=pointer]:
+                - /url: /j/manager-accounting-advisory-consulting-firm-ca-1690442?ref=rl&jobPos=36
+                - generic [ref=e899]:
+                  - img "logo_1690442" [ref=e901]
+                  - generic [ref=e902]:
+                    - paragraph [ref=e904]: Manager - Accounting Advisory - Consulting Firm - CA
+                    - generic [ref=e905]:
+                      - generic [ref=e907]:
+                        - generic [ref=e908]: 5 - 8 yrs
+                        - img "." [ref=e909]
+                        - paragraph [ref=e910]: Mumbai/Gurgaon/Gurugram
+                      - generic [ref=e912]: Posted 5 days ago
+              - link "logo_1689222 Essar Capital - Senior Manager - Deal Advisory/Transaction Tax Advisory - M&A Structuring premium_icon 6 - 8 yrs . Mumbai Posted 1 week ago" [ref=e917] [cursor=pointer]:
+                - /url: /j/essar-capital-senior-manager-deal-advisory-transaction-tax-advisory-manda-structuring-1689222?ref=rl&jobPos=37
+                - generic [ref=e918]:
+                  - img "logo_1689222" [ref=e920]
+                  - generic [ref=e921]:
+                    - generic [ref=e922]:
+                      - paragraph [ref=e923]: Essar Capital - Senior Manager - Deal Advisory/Transaction Tax Advisory - M&A Structuring
+                      - img "premium_icon" [ref=e925]
+                    - generic [ref=e926]:
+                      - generic [ref=e928]:
+                        - generic [ref=e929]: 6 - 8 yrs
+                        - img "." [ref=e930]
+                        - paragraph [ref=e931]: Mumbai
+                      - generic [ref=e933]: Posted 1 week ago
+              - link "logo_1690728 Associate Director/Director - Accounting Advisory - Consulting Firm - CA 8 - 14 yrs . Mumbai Posted 5 days ago" [ref=e938] [cursor=pointer]:
+                - /url: /j/associate-director-director-accounting-advisory-consulting-firm-ca-1690728?ref=rl&jobPos=38
+                - generic [ref=e939]:
+                  - img "logo_1690728" [ref=e941]
+                  - generic [ref=e942]:
+                    - paragraph [ref=e944]: Associate Director/Director - Accounting Advisory - Consulting Firm - CA
+                    - generic [ref=e945]:
+                      - generic [ref=e947]:
+                        - generic [ref=e948]: 8 - 14 yrs
+                        - img "." [ref=e949]
+                        - paragraph [ref=e950]: Mumbai
+                      - generic [ref=e952]: Posted 5 days ago
+              - link "logo_1684534 General Manager/Head - Finance - Infra/Road/Highway/WTP Business - CA 15 - 20 yrs . Kolkata . star-icon 5 grey-divider 3+ Reviews Icon Alt Tag Women candidates preferred Posted 4 weeks ago" [ref=e957] [cursor=pointer]:
+                - /url: /j/general-manager-head-finance-infra-road-highway-wtp-business-ca-1684534?ref=rl&jobPos=39
+                - generic [ref=e958]:
+                  - img "logo_1684534" [ref=e960]
+                  - generic [ref=e961]:
+                    - paragraph [ref=e963]: General Manager/Head - Finance - Infra/Road/Highway/WTP Business - CA
+                    - generic [ref=e964]:
+                      - generic [ref=e965]:
+                        - generic [ref=e966]:
+                          - generic [ref=e967]: 15 - 20 yrs
+                          - img "." [ref=e968]
+                          - paragraph [ref=e969]: Kolkata
+                          - generic [ref=e970]:
+                            - img "." [ref=e971]
+                            - generic [ref=e972]:
+                              - img "star-icon" [ref=e973]
+                              - paragraph [ref=e974]: "5"
+                              - img "grey-divider" [ref=e975]
+                              - paragraph [ref=e976]: 3+ Reviews
+                        - generic [ref=e977]:
+                          - img "Icon Alt Tag" [ref=e978]
+                          - generic [ref=e979]: Women candidates preferred
+                      - generic [ref=e981]: Posted 4 weeks ago
+              - link "logo_1688206 Senior Finance Consultant - CA 6 - 8 yrs . Pune Posted 2 weeks ago" [ref=e986] [cursor=pointer]:
+                - /url: /j/senior-finance-consultant-ca-1688206?ref=rl&jobPos=40
+                - generic [ref=e987]:
+                  - img "logo_1688206" [ref=e989]
+                  - generic [ref=e990]:
+                    - paragraph [ref=e992]: Senior Finance Consultant - CA
+                    - generic [ref=e993]:
+                      - generic [ref=e995]:
+                        - generic [ref=e996]: 6 - 8 yrs
+                        - img "." [ref=e997]
+                        - paragraph [ref=e998]: Pune
+                      - generic [ref=e1000]: Posted 2 weeks ago
+              - generic [ref=e1001]:
+                - link "logo_1689250 Head - Business Finance - Manufacturing Firm - CA 10 - 15 yrs . Hyderabad Posted 1 week ago" [ref=e1005] [cursor=pointer]:
+                  - /url: /j/head-business-finance-manufacturing-firm-ca-1689250?ref=rl&jobPos=41
+                  - generic [ref=e1006]:
+                    - img "logo_1689250" [ref=e1008]
+                    - generic [ref=e1009]:
+                      - paragraph [ref=e1011]: Head - Business Finance - Manufacturing Firm - CA
+                      - generic [ref=e1012]:
+                        - generic [ref=e1014]:
+                          - generic [ref=e1015]: 10 - 15 yrs
+                          - img "." [ref=e1016]
+                          - paragraph [ref=e1017]: Hyderabad
+                        - generic [ref=e1019]: Posted 1 week ago
+                - link "course image Senior Management Programme (SMP) by IIM Ahmedabad View Course" [ref=e1021] [cursor=pointer]:
+                  - /url: https://www.iimjobs.com/course/iim-ahmedabad-senior-management-programme-smp-2883?ref=lc&reforg=learning&refinv=learning?reforg=learningcat&refinv=nativebanner
+                  - generic [ref=e1022]:
+                    - img "course image" [ref=e1025]
+                    - generic [ref=e1026]:
+                      - paragraph [ref=e1027]: Senior Management Programme (SMP) by IIM Ahmedabad
+                      - button "View Course" [ref=e1028]
+              - link "logo_1686380 One MobiKwik Systems - Associate Director - Taxation 6 - 12 yrs . Gurgaon/Gurugram Posted 3 weeks ago" [ref=e1033] [cursor=pointer]:
+                - /url: /j/one-mobikwik-systems-associate-director-taxation-1686380?ref=rl&jobPos=42
+                - generic [ref=e1034]:
+                  - img "logo_1686380" [ref=e1036]
+                  - generic [ref=e1037]:
+                    - paragraph [ref=e1039]: One MobiKwik Systems - Associate Director - Taxation
+                    - generic [ref=e1040]:
+                      - generic [ref=e1042]:
+                        - generic [ref=e1043]: 6 - 12 yrs
+                        - img "." [ref=e1044]
+                        - paragraph [ref=e1045]: Gurgaon/Gurugram
+                      - generic [ref=e1047]: Posted 3 weeks ago
+              - link "logo_1690077 CDW - Senior US Direct & Indirect Tax Professional 4 - 8 yrs . Chennai/Bangalore/Hyderabad . star-icon 4.3 grey-divider 158+ Reviews Posted 6 days ago" [ref=e1052] [cursor=pointer]:
+                - /url: /j/cdw-senior-us-direct-and-indirect-tax-professional-1690077?ref=rl&jobPos=43
+                - generic [ref=e1053]:
+                  - img "logo_1690077" [ref=e1055]
+                  - generic [ref=e1056]:
+                    - paragraph [ref=e1058]: CDW - Senior US Direct & Indirect Tax Professional
+                    - generic [ref=e1059]:
+                      - generic [ref=e1061]:
+                        - generic [ref=e1062]: 4 - 8 yrs
+                        - img "." [ref=e1063]
+                        - paragraph [ref=e1064]: Chennai/Bangalore/Hyderabad
+                        - generic [ref=e1065]:
+                          - img "." [ref=e1066]
+                          - generic [ref=e1067]:
+                            - img "star-icon" [ref=e1068]
+                            - paragraph [ref=e1069]: "4.3"
+                            - img "grey-divider" [ref=e1070]
+                            - paragraph [ref=e1071]: 158+ Reviews
+                      - generic [ref=e1073]: Posted 6 days ago
+              - link "logo_1689627 Senior Manager - Costing - Manufacturing 10 - 15 yrs . Mumbai Posted 1 week ago" [ref=e1078] [cursor=pointer]:
+                - /url: /j/senior-manager-costing-manufacturing-1689627?ref=rl&jobPos=44
+                - generic [ref=e1079]:
+                  - img "logo_1689627" [ref=e1081]
+                  - generic [ref=e1082]:
+                    - paragraph [ref=e1084]: Senior Manager - Costing - Manufacturing
+                    - generic [ref=e1085]:
+                      - generic [ref=e1087]:
+                        - generic [ref=e1088]: 10 - 15 yrs
+                        - img "." [ref=e1089]
+                        - paragraph [ref=e1090]: Mumbai
+                      - generic [ref=e1092]: Posted 1 week ago
+              - link "logo_1685187 Director/Associate Director - Accounting Advisory - Consulting Firm - CA/CPA/ACCA 9 - 15 yrs . Mumbai/Navi Mumbai . star-icon 4 grey-divider 170+ Reviews Posted 3 weeks ago" [ref=e1097] [cursor=pointer]:
+                - /url: /j/director-associate-director-accounting-advisory-consulting-firm-ca-cpa-acca-1685187?ref=rl&jobPos=45
+                - generic [ref=e1098]:
+                  - img "logo_1685187" [ref=e1100]
+                  - generic [ref=e1101]:
+                    - paragraph [ref=e1103]: Director/Associate Director - Accounting Advisory - Consulting Firm - CA/CPA/ACCA
+                    - generic [ref=e1104]:
+                      - generic [ref=e1106]:
+                        - generic [ref=e1107]: 9 - 15 yrs
+                        - img "." [ref=e1108]
+                        - paragraph [ref=e1109]: Mumbai/Navi Mumbai
+                        - generic [ref=e1110]:
+                          - img "." [ref=e1111]
+                          - generic [ref=e1112]:
+                            - img "star-icon" [ref=e1113]
+                            - paragraph [ref=e1114]: "4"
+                            - img "grey-divider" [ref=e1115]
+                            - paragraph [ref=e1116]: 170+ Reviews
+                      - generic [ref=e1118]: Posted 3 weeks ago
+              - link "logo_1686540 Manager/Senior Manager - Fund Accounting - CA/CFA 8 - 14 yrs . Mumbai . star-icon 4.7 grey-divider 6+ Reviews Posted 2 weeks ago" [ref=e1123] [cursor=pointer]:
+                - /url: /j/manager-senior-manager-fund-accounting-ca-cfa-1686540?ref=rl&jobPos=46
+                - generic [ref=e1124]:
+                  - img "logo_1686540" [ref=e1126]
+                  - generic [ref=e1127]:
+                    - paragraph [ref=e1129]: Manager/Senior Manager - Fund Accounting - CA/CFA
+                    - generic [ref=e1130]:
+                      - generic [ref=e1132]:
+                        - generic [ref=e1133]: 8 - 14 yrs
+                        - img "." [ref=e1134]
+                        - paragraph [ref=e1135]: Mumbai
+                        - generic [ref=e1136]:
+                          - img "." [ref=e1137]
+                          - generic [ref=e1138]:
+                            - img "star-icon" [ref=e1139]
+                            - paragraph [ref=e1140]: "4.7"
+                            - img "grey-divider" [ref=e1141]
+                            - paragraph [ref=e1142]: 6+ Reviews
+                      - generic [ref=e1144]: Posted 2 weeks ago
+              - link "Logo Senior Manager - Finance - Private Equity Funds - CA 6 - 8 yrs . Ahmedabad/Mumbai/Gujarat Posted 4 weeks ago" [ref=e1149] [cursor=pointer]:
+                - /url: /j/senior-manager-finance-private-equity-funds-ca-1684380?ref=rl&jobPos=47
+                - generic [ref=e1150]:
+                  - img "Logo" [ref=e1153]
+                  - generic [ref=e1154]:
+                    - paragraph [ref=e1156]: Senior Manager - Finance - Private Equity Funds - CA
+                    - generic [ref=e1157]:
+                      - generic [ref=e1159]:
+                        - generic [ref=e1160]: 6 - 8 yrs
+                        - img "." [ref=e1161]
+                        - paragraph [ref=e1162]: Ahmedabad/Mumbai/Gujarat
+                      - generic [ref=e1164]: Posted 4 weeks ago
+              - link "Logo North Finance Head - Professional Services Firm - CA 15 - 20 yrs . Delhi NCR Posted today" [ref=e1169] [cursor=pointer]:
+                - /url: /j/north-finance-head-professional-services-firm-ca-1691626?ref=rl&jobPos=48
+                - generic [ref=e1170]:
+                  - img "Logo" [ref=e1173]
+                  - generic [ref=e1174]:
+                    - paragraph [ref=e1176]: North Finance Head - Professional Services Firm - CA
+                    - generic [ref=e1177]:
+                      - generic [ref=e1179]:
+                        - generic [ref=e1180]: 15 - 20 yrs
+                        - img "." [ref=e1181]
+                        - paragraph [ref=e1182]: Delhi NCR
+                      - generic [ref=e1184]: Posted today
+              - link "logo_1685598 Head - Business Finance - CA 5 - 15 yrs . Mumbai Posted 3 weeks ago" [ref=e1189] [cursor=pointer]:
+                - /url: /j/head-business-finance-ca-1685598?ref=rl&jobPos=49
+                - generic [ref=e1190]:
+                  - img "logo_1685598" [ref=e1192]
+                  - generic [ref=e1193]:
+                    - paragraph [ref=e1195]: Head - Business Finance - CA
+                    - generic [ref=e1196]:
+                      - generic [ref=e1198]:
+                        - generic [ref=e1199]: 5 - 15 yrs
+                        - img "." [ref=e1200]
+                        - paragraph [ref=e1201]: Mumbai
+                      - generic [ref=e1203]: Posted 3 weeks ago
+              - link "logo_1684559 BDO - Assistant Manager/Manager - Merger & Acquisition Tax 3 - 10 yrs . Mumbai/Bangalore Posted 4 weeks ago" [ref=e1208] [cursor=pointer]:
+                - /url: /j/bdo-assistant-manager-manager-merger-and-acquisition-tax-1684559?ref=rl&jobPos=50
+                - generic [ref=e1209]:
+                  - img "logo_1684559" [ref=e1211]
+                  - generic [ref=e1212]:
+                    - paragraph [ref=e1214]: BDO - Assistant Manager/Manager - Merger & Acquisition Tax
+                    - generic [ref=e1215]:
+                      - generic [ref=e1217]:
+                        - generic [ref=e1218]: 3 - 10 yrs
+                        - img "." [ref=e1219]
+                        - paragraph [ref=e1220]: Mumbai/Bangalore
+                      - generic [ref=e1222]: Posted 4 weeks ago
+        - generic [ref=e1223]:
+          - generic [ref=e1225]:
+            - generic [ref=e1226]:
+              - paragraph [ref=e1227]: Posted by
+              - generic [ref=e1228]:
+                - img "user_img" [ref=e1232]
+                - generic [ref=e1234]:
+                  - link "Gayatri Gandhi" [ref=e1235] [cursor=pointer]:
+                    - /url: /r/90174-gayatri-gandhi
+                    - paragraph [ref=e1236]: Gayatri Gandhi
+                  - paragraph [ref=e1237]:
+                    - link "Director at U.S.Gandhi & Co." [ref=e1238] [cursor=pointer]:
+                      - /url: /r/90174-gayatri-gandhi
+                  - paragraph [ref=e1239]: "Last Active: 22 April 2026"
+            - generic [ref=e1240]:
+              - generic [ref=e1241]:
+                - generic [ref=e1242]:
+                  - paragraph [ref=e1243]: "104"
+                  - paragraph [ref=e1244]: JOB VIEWS
+                - generic [ref=e1245]:
+                  - paragraph [ref=e1246]: "16"
+                  - paragraph [ref=e1247]: APPLICATIONS
+                - generic [ref=e1248]:
+                  - paragraph [ref=e1249]: "7"
+                  - paragraph [ref=e1250]: RECRUITER ACTIONS
+              - generic [ref=e1251]:
+                - paragraph [ref=e1252]: See how you stand against competition
+                - generic [ref=e1253]:
+                  - paragraph [ref=e1254] [cursor=pointer]: View Insights
+                  - paragraph [ref=e1257]: Pro
+            - generic [ref=e1258]:
+              - paragraph [ref=e1259]: Posted in
+              - link "Banking & Finance" [ref=e1260] [cursor=pointer]:
+                - /url: /c/banking-finance-jobs
+                - paragraph [ref=e1261]: Banking & Finance
+            - generic [ref=e1262]:
+              - paragraph [ref=e1263]: Job Code
+              - paragraph [ref=e1264]: "1691030"
+          - generic [ref=e1266]:
+            - paragraph [ref=e1267]: UPSKILL YOURSELF
+            - paragraph [ref=e1268]: My Learning Centre
+            - link "Explore Courses Arrow" [ref=e1269] [cursor=pointer]:
+              - /url: https://learning.iimjobs.com/home.php?ref=jdTab
+              - generic [ref=e1270]: Explore Courses
+              - img "Arrow" [ref=e1272]
+          - generic [ref=e1275]:
+            - paragraph [ref=e1276]: Featured Institute
+            - generic [ref=e1277]:
+              - img "MIT" [ref=e1279] [cursor=pointer]
+              - img "MIT" [ref=e1281] [cursor=pointer]
+          - generic [ref=e1283]:
+            - text: Learn & Grow
+            - generic [ref=e1286]:
+              - 'img "Amity University | MBA For Working Professionals Specialization: Finance & Strategy" [ref=e1289]'
+              - 'link "Amity University MBA For Working Professionals Specialization: Finance & Strategy" [ref=e1291] [cursor=pointer]':
+                - /url: /course/amity-university-mba-for-working-professionals-specialization-finance-strategy-2889?reforg=sd&refinv=lg
+                - paragraph [ref=e1292]: Amity University
+                - paragraph [ref=e1293]: "MBA For Working Professionals Specialization: Finance & Strategy"
+            - generic [ref=e1296]:
+              - img "IIM Indore | Advanced Management Programme for Corporate Leaders - Batch 06" [ref=e1299]
+              - link "IIM Indore Advanced Management Programme for Corporate Leaders - Batch 06" [ref=e1301] [cursor=pointer]:
+                - /url: /course/iim-indore-advanced-management-programme-for-corporate-leaders-batch-06-2865?reforg=sd&refinv=lg
+                - paragraph [ref=e1302]: IIM Indore
+                - paragraph [ref=e1303]: Advanced Management Programme for Corporate Leaders - Batch 06
+            - generic [ref=e1306]:
+              - img "IIM Nagpur | Post Graduate Certificate Programme in Product & Brand Management" [ref=e1309]
+              - link "IIM Nagpur Post Graduate Certificate Programme in Product & Brand Management" [ref=e1311] [cursor=pointer]:
+                - /url: /course/iim-nagpur-post-graduate-certificate-programme-in-product-brand-management-2885?reforg=sd&refinv=lg
+                - paragraph [ref=e1312]: IIM Nagpur
+                - paragraph [ref=e1313]: Post Graduate Certificate Programme in Product & Brand Management
+            - generic [ref=e1316]:
+              - img "Imarticus and KPMG | Project Management Prodegree" [ref=e1319]
+              - link "Imarticus and KPMG Project Management Prodegree" [ref=e1321] [cursor=pointer]:
+                - /url: /course/imarticus-and-kpmg-project-management-prodegree-2852?reforg=sd&refinv=lg
+                - paragraph [ref=e1322]: Imarticus and KPMG
+                - paragraph [ref=e1323]: Project Management Prodegree
+            - generic [ref=e1326]:
+              - img "IIM Ahmedabad | Advanced Certificate Programme in Quantitative Finance and Risk Management (APQFRM)" [ref=e1329]
+              - link "IIM Ahmedabad Advanced Certificate Programme in Quantitative Finance and Risk Management (APQFRM)" [ref=e1331] [cursor=pointer]:
+                - /url: /course/iim-ahmedabad-advanced-certificate-programme-in-quantitative-finance-and-risk-management-apqfrm-2890?reforg=sd&refinv=lg
+                - paragraph [ref=e1332]: IIM Ahmedabad
+                - paragraph [ref=e1333]: Advanced Certificate Programme in Quantitative Finance and Risk Management (APQFRM)
+            - generic [ref=e1336]:
+              - 'img "Amity University | MBA For Working Professionals Specialization: Entrepreneurship & Innovation" [ref=e1339]'
+              - 'link "Amity University MBA For Working Professionals Specialization: Entrepreneurship & Innovation" [ref=e1341] [cursor=pointer]':
+                - /url: /course/amity-university-mba-for-working-professionals-specialization-entrepreneurship-innovation-2887?reforg=sd&refinv=lg
+                - paragraph [ref=e1342]: Amity University
+                - paragraph [ref=e1343]: "MBA For Working Professionals Specialization: Entrepreneurship & Innovation"
+            - generic [ref=e1346]:
+              - img "Delhi Technological University | Advanced programme in Renewable & Sustainable Energy Management" [ref=e1349]
+              - link "Delhi Technological University Advanced programme in Renewable & Sustainable Energy Management" [ref=e1351] [cursor=pointer]:
+                - /url: /course/delhi-technological-university-advanced-programme-in-renewable-sustainable-energy-management-2874?reforg=sd&refinv=lg
+                - paragraph [ref=e1352]: Delhi Technological University
+                - paragraph [ref=e1353]: Advanced programme in Renewable & Sustainable Energy Management
+            - generic [ref=e1356]:
+              - img "SPJIMR | Post graduate Program in General Management (Executive)" [ref=e1359]
+              - link "SPJIMR Post graduate Program in General Management (Executive)" [ref=e1361] [cursor=pointer]:
+                - /url: /course/spjimr-post-graduate-program-in-general-management-executive-2869?reforg=sd&refinv=lg
+                - paragraph [ref=e1362]: SPJIMR
+                - paragraph [ref=e1363]: Post graduate Program in General Management (Executive)
+            - generic [ref=e1366]:
+              - img "IIM Indore | Post Graduate Certificate Programme for Emerging Chief Human Resource Officers (CHROs)" [ref=e1369]
+              - link "IIM Indore Post Graduate Certificate Programme for Emerging Chief Human Resource Officers (CHROs)" [ref=e1371] [cursor=pointer]:
+                - /url: /course/iim-indore-post-graduate-certificate-programme-for-emerging-chief-human-resource-officers-chr-os-2868?reforg=sd&refinv=lg
+                - paragraph [ref=e1372]: IIM Indore
+                - paragraph [ref=e1373]: Post Graduate Certificate Programme for Emerging Chief Human Resource Officers (CHROs)
+            - generic [ref=e1376]:
+              - img "IIM Ahmedabad | Executive Programme in Healthcare Services Management (EPHSM)" [ref=e1379]
+              - link "IIM Ahmedabad Executive Programme in Healthcare Services Management (EPHSM)" [ref=e1381] [cursor=pointer]:
+                - /url: /course/iim-ahmedabad-executive-programme-in-healthcare-services-management-ephsm-2882?reforg=sd&refinv=lg
+                - paragraph [ref=e1382]: IIM Ahmedabad
+                - paragraph [ref=e1383]: Executive Programme in Healthcare Services Management (EPHSM)
+            - generic [ref=e1386]:
+              - img "IIM Nagpur | Post Graduate Certificate Programme for Emerging CFOs (Batch 02)" [ref=e1389]
+              - link "IIM Nagpur Post Graduate Certificate Programme for Emerging CFOs (Batch 02)" [ref=e1391] [cursor=pointer]:
+                - /url: /course/iim-nagpur-post-graduate-certificate-programme-for-emerging-cf-os-batch-02-2864?reforg=sd&refinv=lg
+                - paragraph [ref=e1392]: IIM Nagpur
+                - paragraph [ref=e1393]: Post Graduate Certificate Programme for Emerging CFOs (Batch 02)
+            - generic [ref=e1396]:
+              - 'img "IIM Lucknow | Global Senior Leadership Programme Specialisation: Chief Operations Officer" [ref=e1399]'
+              - 'link "IIM LUCKNOW Global Senior Leadership Programme Specialisation: Chief Operations Officer" [ref=e1401] [cursor=pointer]':
+                - /url: /course/iim-lucknow-global-senior-leadership-programme-specialisation-chief-operations-officer-2879?reforg=sd&refinv=lg
+                - paragraph [ref=e1402]: IIM LUCKNOW
+                - paragraph [ref=e1403]: "Global Senior Leadership Programme Specialisation: Chief Operations Officer"
+            - generic [ref=e1406]:
+              - img "Bosscoder Academy | Software Engineering Program with AI Specialization" [ref=e1409]
+              - link "Bosscoder Academy Software Engineering Program with AI Specialization" [ref=e1411] [cursor=pointer]:
+                - /url: /course/bosscoder-academy-software-engineering-program-with-ai-specialization-2873?reforg=sd&refinv=lg
+                - paragraph [ref=e1412]: Bosscoder Academy
+                - paragraph [ref=e1413]: Software Engineering Program with AI Specialization
+            - generic [ref=e1416]:
+              - img "XLRI | Executive Development Programme in Advanced Strategic HR and Analytics for HR Leaders" [ref=e1419]
+              - link "XLRI Executive Development Programme in Advanced Strategic HR and Analytics for HR Leaders" [ref=e1421] [cursor=pointer]:
+                - /url: /course/xlri-executive-development-programme-in-advanced-strategic-hr-and-analytics-for-hr-leaders-2866?reforg=sd&refinv=lg
+                - paragraph [ref=e1422]: XLRI
+                - paragraph [ref=e1423]: Executive Development Programme in Advanced Strategic HR and Analytics for HR Leaders
+            - generic [ref=e1426]:
+              - 'img "IIM Lucknow | Global Senior Leadership Programme Specialisation: Chief Human Resource Officer" [ref=e1429]'
+              - 'link "IIM Lucknow Global Senior Leadership Programme Specialisation: Chief Human Resource Officer" [ref=e1431] [cursor=pointer]':
+                - /url: /course/iim-lucknow-global-senior-leadership-programme-specialisation-chief-human-resource-officer-2877?reforg=sd&refinv=lg
+                - paragraph [ref=e1432]: IIM Lucknow
+                - paragraph [ref=e1433]: "Global Senior Leadership Programme Specialisation: Chief Human Resource Officer"
+            - generic [ref=e1436]:
+              - img "IIM Indore | Advanced Programme in CSR & Sustainable Strategic Leadership (Batch 03)" [ref=e1439]
+              - link "IIM Indore Advanced Programme in CSR & Sustainable Strategic Leadership (Batch 03)" [ref=e1441] [cursor=pointer]:
+                - /url: /course/iim-indore-advanced-programme-in-csr-sustainable-strategic-leadership-batch-03-2722?reforg=sd&refinv=lg
+                - paragraph [ref=e1442]: IIM Indore
+                - paragraph [ref=e1443]: Advanced Programme in CSR & Sustainable Strategic Leadership (Batch 03)
+            - generic [ref=e1446]:
+              - img "IIM Udaipur | Executive MBA" [ref=e1449]
+              - link "IIM Udaipur Executive MBA" [ref=e1451] [cursor=pointer]:
+                - /url: /course/iim-udaipur-executive-mba-2841?reforg=sd&refinv=lg
+                - paragraph [ref=e1452]: IIM Udaipur
+                - paragraph [ref=e1453]: Executive MBA
+            - generic [ref=e1456]:
+              - img "XLRI Jamshedpur| Senior Executive Development Programme in Transformational Leadership for CXOs" [ref=e1459]
+              - link "XLRI Jamshedpur Senior Executive Development Programme in Transformational Leadership for CXOs" [ref=e1461] [cursor=pointer]:
+                - /url: /course/xlri-jamshedpur-senior-executive-development-programme-in-transformational-leadership-for-cx-os-2884?reforg=sd&refinv=lg
+                - paragraph [ref=e1462]: XLRI Jamshedpur
+                - paragraph [ref=e1463]: Senior Executive Development Programme in Transformational Leadership for CXOs
+            - generic [ref=e1466]:
+              - img "ICFAI Online | Online MBA" [ref=e1469]
+              - link "ICFAI Online MBA" [ref=e1471] [cursor=pointer]:
+                - /url: /course/icfai-online-online-mba-2859?reforg=sd&refinv=lg
+                - paragraph [ref=e1472]: ICFAI
+                - paragraph [ref=e1473]: Online MBA
+            - generic [ref=e1476]:
+              - img "IIM Ahmedabad | Blended Post Graduate Programme in Management (BPGP)" [ref=e1479]
+              - link "IIM Ahmedabad Blended Post Graduate Programme in Management (BPGP)" [ref=e1481] [cursor=pointer]:
+                - /url: /course/iim-ahmedabad-blended-post-graduate-programme-in-management-bpgp-2862?reforg=sd&refinv=lg
+                - paragraph [ref=e1482]: IIM Ahmedabad
+                - paragraph [ref=e1483]: Blended Post Graduate Programme in Management (BPGP)
+    - generic [ref=e1484]:
+      - generic [ref=e1486]:
+        - link "Banking & Finance Jobs" [ref=e1487] [cursor=pointer]:
+          - /url: /c/banking-finance-jobs
+        - list [ref=e1488]:
+          - link "Finance and Accounts" [ref=e1489] [cursor=pointer]:
+            - /url: /k/finance-and-accounts-jobs
+          - link "Banking" [ref=e1490] [cursor=pointer]:
+            - /url: /k/banking-jobs
+          - link "Corporate Banking" [ref=e1491] [cursor=pointer]:
+            - /url: /k/corporate-banking-jobs
+          - link "Investment Banking" [ref=e1492] [cursor=pointer]:
+            - /url: /k/investment-banking-jobs
+          - link "Private Equity" [ref=e1493] [cursor=pointer]:
+            - /url: /k/private-equity-jobs
+          - link "Equity Research" [ref=e1494] [cursor=pointer]:
+            - /url: /k/equity-research-jobs
+      - generic [ref=e1496]:
+        - link "Sales & Marketing Jobs" [ref=e1497] [cursor=pointer]:
+          - /url: /c/sales-marketing-jobs
+        - list [ref=e1498]:
+          - link "Sales" [ref=e1499] [cursor=pointer]:
+            - /url: /k/sales-jobs
+          - link "Marketing" [ref=e1500] [cursor=pointer]:
+            - /url: /k/marketing-jobs
+          - link "Brand Management" [ref=e1501] [cursor=pointer]:
+            - /url: /k/brand-management-jobs
+          - link "Online Marketing" [ref=e1502] [cursor=pointer]:
+            - /url: /k/online-marketing-jobs
+          - link "Marketing Communications" [ref=e1503] [cursor=pointer]:
+            - /url: /k/marketing-communications-jobs
+          - link "Market Research" [ref=e1504] [cursor=pointer]:
+            - /url: /k/market-research-jobs
+      - generic [ref=e1506]:
+        - link "Consulting Jobs" [ref=e1507] [cursor=pointer]:
+          - /url: /c/consulting-general-mgmt-jobs
+        - list [ref=e1508]:
+          - link "Strategy Consulting" [ref=e1509] [cursor=pointer]:
+            - /url: /k/strategy-consulting-jobs
+          - link "Research" [ref=e1510] [cursor=pointer]:
+            - /url: /k/research-jobs
+          - link "Analytics" [ref=e1511] [cursor=pointer]:
+            - /url: /k/analytics-jobs
+          - link "Process Excellence" [ref=e1512] [cursor=pointer]:
+            - /url: /k/process-excellence-jobs
+          - link "Consulting - BFSI" [ref=e1513] [cursor=pointer]:
+            - /url: /k/consulting-bfsi-jobs
+          - link "Consulting - Consumer Goods" [ref=e1514] [cursor=pointer]:
+            - /url: /k/consulting-consumer-goods-jobs
+      - generic [ref=e1516]:
+        - link "HR & IR Jobs" [ref=e1517] [cursor=pointer]:
+          - /url: /c/hr-ir-jobs
+        - list [ref=e1518]:
+          - link "HR Generalist" [ref=e1519] [cursor=pointer]:
+            - /url: /k/hr-generalist-jobs
+          - link "HR Business Partner" [ref=e1520] [cursor=pointer]:
+            - /url: /k/hr-business-partner-jobs
+          - link "Talent Acquisition" [ref=e1521] [cursor=pointer]:
+            - /url: /k/talent-acquisition-jobs
+          - link "Organization Development" [ref=e1522] [cursor=pointer]:
+            - /url: /k/organization-development-jobs
+          - link "Learning and Development" [ref=e1523] [cursor=pointer]:
+            - /url: /k/learning-and-development-jobs
+          - link "Compensation & Benefits" [ref=e1524] [cursor=pointer]:
+            - /url: /k/compensation-benefits-jobs
+      - generic [ref=e1526]:
+        - link "IT & Systems Jobs" [ref=e1527] [cursor=pointer]:
+          - /url: /c/it-systems-jobs
+        - list [ref=e1528]:
+          - link "Project Management" [ref=e1529] [cursor=pointer]:
+            - /url: /k/it-project-management-jobs
+          - link "IT Consulting" [ref=e1530] [cursor=pointer]:
+            - /url: /k/it-consulting-jobs
+          - link "Presales" [ref=e1531] [cursor=pointer]:
+            - /url: /k/presales-jobs
+          - link "IT Sales" [ref=e1532] [cursor=pointer]:
+            - /url: /k/it-sales-jobs
+          - link "IT Product Management" [ref=e1533] [cursor=pointer]:
+            - /url: /k/it-product-management-jobs
+          - link "IT Business Analyst" [ref=e1534] [cursor=pointer]:
+            - /url: /k/it-business-analyst-jobs
+      - generic [ref=e1536]:
+        - link "SCM & Operations Jobs" [ref=e1537] [cursor=pointer]:
+          - /url: /c/scm-operations-jobs
+        - list [ref=e1538]:
+          - link "Supply Chain" [ref=e1539] [cursor=pointer]:
+            - /url: /k/supply-chain-jobs
+          - link "Operations" [ref=e1540] [cursor=pointer]:
+            - /url: /k/operations-jobs
+          - link "Procurement" [ref=e1541] [cursor=pointer]:
+            - /url: /k/procurement-jobs
+          - link "Inventory Management" [ref=e1542] [cursor=pointer]:
+            - /url: /k/inventory-management-jobs
+          - link "Plant Operations" [ref=e1543] [cursor=pointer]:
+            - /url: /k/plant-operations-jobs
+          - link "Demand Planning" [ref=e1544] [cursor=pointer]:
+            - /url: /k/demand-planning-jobs
+      - generic [ref=e1546]:
+        - link "Legal Jobs" [ref=e1547] [cursor=pointer]:
+          - /url: /c/legal-jobs
+        - list [ref=e1548]:
+          - link "Regulatory Compliance" [ref=e1549] [cursor=pointer]:
+            - /url: /k/regulatory-compliance-jobs
+          - link "Litigation" [ref=e1550] [cursor=pointer]:
+            - /url: /k/litigation-jobs
+          - link "Company Secretary" [ref=e1551] [cursor=pointer]:
+            - /url: /k/company-secretary-jobs
+          - link "Intellectual Property Rights (IPR)" [ref=e1552] [cursor=pointer]:
+            - /url: /k/ipr-jobs
+          - link "Legal Jobs in BFSI" [ref=e1553] [cursor=pointer]:
+            - /url: /k/legal-bfsi-jobs
+          - link "Legal Jobs in IT/ITeS" [ref=e1554] [cursor=pointer]:
+            - /url: /k/legal-it-ites-jobs
+      - generic [ref=e1556]:
+        - link "BPO Jobs" [ref=e1557] [cursor=pointer]:
+          - /url: /c/bpo-jobs
+        - list [ref=e1558]:
+          - link "BPO Operations" [ref=e1559] [cursor=pointer]:
+            - /url: /k/bpo-operations-jobs
+          - link "BPO Quality" [ref=e1560] [cursor=pointer]:
+            - /url: /k/bpo-quality-jobs
+          - link "BPO Presales" [ref=e1561] [cursor=pointer]:
+            - /url: /k/bpo-presales-jobs
+          - link "BPO Sales" [ref=e1562] [cursor=pointer]:
+            - /url: /k/bpo-sales-jobs
+          - link "BPO Training" [ref=e1563] [cursor=pointer]:
+            - /url: /k/bpo-training-jobs
+          - link "Customer Service" [ref=e1564] [cursor=pointer]:
+            - /url: /k/customer-service-jobs
+      - generic [ref=e1566]:
+        - link "Healthcare Jobs" [ref=e1567] [cursor=pointer]:
+          - /url: /c/healthcare-jobs
+        - list [ref=e1568]:
+          - link "MBBS" [ref=e1569] [cursor=pointer]:
+            - /url: /k/mbbs-jobs
+          - link "MD" [ref=e1570] [cursor=pointer]:
+            - /url: /k/md-jobs
+          - link "Healthcare Operations" [ref=e1571] [cursor=pointer]:
+            - /url: /k/healthcare-operations-jobs
+          - link "Clinical Operations" [ref=e1572] [cursor=pointer]:
+            - /url: /k/clinical-operations-jobs
+      - generic [ref=e1574]:
+        - link "Pharma Jobs" [ref=e1575] [cursor=pointer]:
+          - /url: /c/pharma-jobs
+        - list [ref=e1576]:
+          - link "Pharma Operations" [ref=e1577] [cursor=pointer]:
+            - /url: /k/pharma-operations-jobs
+          - link "Pharmacovigilance" [ref=e1578] [cursor=pointer]:
+            - /url: /k/pharmacovigilance-jobs
+          - link "Pharma R&D" [ref=e1579] [cursor=pointer]:
+            - /url: /k/pharma-r-d-jobs
+          - link "Pharma Safety" [ref=e1580] [cursor=pointer]:
+            - /url: /k/pharma-safety-jobs
+      - generic [ref=e1582]:
+        - link "GenAI Jobs" [ref=e1583] [cursor=pointer]:
+          - /url: /c/genai-jobs
+        - list [ref=e1584]:
+          - link "AI Product Management" [ref=e1585] [cursor=pointer]:
+            - /url: /k/ai-product-management-jobs
+          - link "Generative AI" [ref=e1586] [cursor=pointer]:
+            - /url: /k/generative-ai-jobs
+          - link "Gen AI Strategy" [ref=e1587] [cursor=pointer]:
+            - /url: /k/gen-ai-strategy-jobs
+          - link "AI Project Management" [ref=e1588] [cursor=pointer]:
+            - /url: /k/ai-project-management-jobs
+  - alert [ref=e1589]

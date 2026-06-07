@@ -1,0 +1,546 @@
+- generic [active] [ref=e1]:
+  - link "Skip to main content" [ref=e2] [cursor=pointer]:
+    - /url: "#main-content"
+  - generic [ref=e3]:
+    - banner [ref=e4]:
+      - generic [ref=e6]:
+        - link "BeBee" [ref=e7] [cursor=pointer]:
+          - /url: /in
+          - img "BeBee" [ref=e8]
+        - button "Open menu" [ref=e10] [cursor=pointer]:
+          - img [ref=e11]
+    - main [ref=e12]:
+      - generic [ref=e13]:
+        - navigation "Breadcrumb" [ref=e14]:
+          - list [ref=e15]:
+            - listitem [ref=e16]:
+              - link "Home" [ref=e17] [cursor=pointer]:
+                - /url: /
+                - img "Home" [ref=e18]
+            - listitem [ref=e21]:
+              - img [ref=e22]
+              - link "India" [ref=e24] [cursor=pointer]:
+                - /url: /in
+            - listitem [ref=e25]:
+              - img [ref=e26]
+              - link "Jobs" [ref=e28] [cursor=pointer]:
+                - /url: /in/jobs
+            - listitem [ref=e29]:
+              - img [ref=e30]
+              - generic [ref=e32]: Manager - Indirect Tax (GST) - Mumbai
+        - button "Back" [ref=e33] [cursor=pointer]:
+          - img [ref=e34]
+          - text: Back
+        - generic [ref=e36]:
+          - generic [ref=e39]:
+            - generic [ref=e40]:
+              - heading "Manager - Indirect Tax (GST) - Mumbai" [level=1] [ref=e41]
+              - generic [ref=e42]:
+                - button "Share" [ref=e44] [cursor=pointer]:
+                  - img [ref=e45]
+                - generic [ref=e51]:
+                  - img [ref=e52]
+                  - text: Finance
+            - button "Sign up to see the company" [ref=e55] [cursor=pointer]:
+              - generic:
+                - generic:
+                  - generic: Bhuta Shah & Co
+              - img [ref=e56]
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - img [ref=e61]
+                - text: Mumbai, India
+              - generic [ref=e64]:
+                - img [ref=e65]
+                - text: ₹1,25,000 - ₹1,87,500 /year
+              - generic [ref=e68]:
+                - img [ref=e69]
+                - text: 3 weeks ago
+              - generic [ref=e72]:
+                - img [ref=e73]
+                - text: Until 28/5/2026
+            - generic [ref=e75]:
+              - generic [ref=e76]: Full time
+              - generic [ref=e77]:
+                - img [ref=e78]
+                - text: On-site
+            - generic [ref=e83]:
+              - button "Save" [ref=e84] [cursor=pointer]:
+                - img [ref=e85]
+                - text: Save
+              - button "Apply now" [ref=e87] [cursor=pointer]:
+                - img [ref=e88]
+                - text: Apply now
+          - generic [ref=e92]:
+            - generic [ref=e93]:
+              - heading "Job description" [level=3] [ref=e94]
+              - generic [ref=e95]:
+                - generic [ref=e97]:
+                  - paragraph [ref=e98]: Opening for Indirect Tax (GST)
+                  - paragraph [ref=e99]: "Designation: Manager, Indirect Tax"
+                  - 'heading "Service Line: Indirect tax" [level=4] [ref=e100]'
+                  - 'heading "Location: Mumbai" [level=4] [ref=e101]'
+                  - heading "Job Description" [level=4] [ref=e102]
+                  - text: To manage a lead our indirect tax practice in Mumbai, primarily working on Customs & international Trade opportunities but also having working knowledge of GST and other domestic indirect taxes. Eligible candidates should demonstrate team leadership skills, client handling skills and ability to independently conclude on topical issues pertaining to indirect taxes. They should also have a body of clients and contacts to whom the Firm can pitch for indirect tax services.
+                  - heading "Qualification and Experience" [level=4] [ref=e103]
+                  - list [ref=e104]:
+                    - listitem [ref=e105]: Qualified CA/ CMA/ Lawyer
+                    - listitem [ref=e106]: Minimum 7-8 years of post-qualification experience in indirect tax advisory/ consulting
+                  - heading "Skills Description" [level=4] [ref=e107]
+                  - text: (A) Technical knowledge
+                  - paragraph [ref=e108]: Customs & International Trade
+                  - list [ref=e109]:
+                    - listitem [ref=e110]: Proven expertise in Customs, International Trade, Foreign Trade Policy and related regulations
+                    - listitem [ref=e111]: Independently arrive at conclusions on topical matters relating to Customs and International Trade law
+                    - listitem [ref=e112]: Legal/ procedural research using available tools and archives, including from Public Domain
+                    - listitem [ref=e113]: Drafting appeals, department interactions
+                    - listitem [ref=e114]: Hands-on expertise in Customs procedures (including Valuation, Classification, etc)
+                    - listitem [ref=e115]: Working knowledge of STPI/ SEZ compliance procedures
+                  - text: Goods & Services Tax
+                  - list [ref=e116]:
+                    - listitem [ref=e117]: Proven expertise in Goods & Services Tax laws (GST laws) and related regulations
+                    - listitem [ref=e118]: Independently arrive at conclusions on topical matters relating to GST laws
+                    - listitem [ref=e119]: Hands-on expertise in GST compliances, including managing and delivering on GST reconciliations
+                  - text: (B) General skills
+                  - list [ref=e120]:
+                    - listitem [ref=e121]: Excellent written and verbal communication skills, including but not limited to drafting advices, appeals, emails and other correspondence with clients
+                    - listitem [ref=e122]: Good presentation skills in communicating a point of view to clients and team members
+                    - listitem [ref=e123]: Ability to manage and motivate a team of indirect tax professionals to work together in delivering quality services to clients
+                    - listitem [ref=e124]: Proven ability to engage with Revenue authorities (Customs, FTP, GST, etc)
+                    - listitem [ref=e125]: Able and willing to lead client interactions and independently handle new client conversations
+                    - listitem [ref=e126]: Good at basic arithmetic
+                  - text: (C) Technology skills
+                  - list [ref=e127]:
+                    - listitem [ref=e128]: Able to comfortably use Windows programs Word, Excel, PowerPoint
+                    - listitem [ref=e129]: Able to use Firms GST technology tools for compliances
+                    - listitem [ref=e130]: Working knowledge of at least one ERP platform – SAP, Oracle, Microsoft, etc.
+                  - text: "Location: Andheri East - Chakala (Mumbai)"
+                  - paragraph [ref=e131]: Kindly share you updated CV on pooja.vora@bhutashah.com or connect on What's app - 9819194106
+                  - paragraph [ref=e132]: Regards,
+                  - heading "Pooja Vora" [level=4] [ref=e133]
+                - generic [ref=e134]:
+                  - button "Sign up to read the full description" [ref=e135] [cursor=pointer]:
+                    - img [ref=e136]
+                    - text: Sign up to read the full description
+                  - paragraph [ref=e139]: Free. No credit card required.
+              - generic [ref=e140]:
+                - generic [ref=e141]:
+                  - img [ref=e142]
+                  - generic [ref=e145]: Keywords
+                - generic [ref=e146]:
+                  - generic [ref=e147]: indirect-tax
+                  - generic [ref=e148]: goods-and-service-tax-gst
+                  - generic [ref=e149]: value-added-tax-vat
+                  - generic [ref=e150]: job-descriptions
+                  - generic [ref=e151]: policies-and-practices
+                  - generic [ref=e152]: non-disclosure-agreement-nda
+                  - generic [ref=e153]: certificate-authority-ca
+                  - generic [ref=e154]: laws-and-regulations
+                  - generic [ref=e155]: appeals-and-grievances
+                  - generic [ref=e156]: valuation
+                  - generic [ref=e157]: special-economic-zone-sez
+                  - generic [ref=e158]: compliance
+                  - generic [ref=e159]: presentations
+                  - generic [ref=e160]: file-transfer-protocol-ftp
+                  - generic [ref=e161]: insurance-consulting-and-technology
+                  - generic [ref=e162]: doors-windows
+                  - generic [ref=e163]: microsoft-powerpoint
+                  - generic [ref=e164]: enterprise-resource-planning-erp
+                  - generic [ref=e165]: food-enterprise-resource-planning-erp
+                  - generic [ref=e166]: medical-devices-enterprise-resource-planning-erp
+                  - generic [ref=e167]: sap
+                  - generic [ref=e168]: oracle
+            - generic [ref=e169]:
+              - paragraph [ref=e170]: ¿Te interesa este puesto?
+              - button "Apply" [ref=e171] [cursor=pointer]:
+                - img [ref=e172]
+                - text: Apply
+        - generic [ref=e176]:
+          - heading "Similar jobs" [level=2] [ref=e177]
+          - generic [ref=e178]:
+            - link "Executive | GST & Pre GST Advisory | | Indirect Tax Mumbai 1 weeks ago" [ref=e179] [cursor=pointer]:
+              - generic [ref=e180]:
+                - generic [ref=e181]:
+                  - generic [ref=e182]:
+                    - heading "Executive | GST & Pre GST Advisory | | Indirect Tax" [level=3] [ref=e184]:
+                      - link "Executive | GST & Pre GST Advisory | | Indirect Tax" [ref=e185]:
+                        - /url: /in/jobs/executive-gst-pre-gst-advisory-indirect-tax-deloitte-consulting-mumbai--theirstack-661660373
+                    - generic [ref=e186]:
+                      - img [ref=e187]
+                      - text: Mumbai
+                  - group [ref=e190]:
+                    - button "Share" [ref=e192]:
+                      - img [ref=e193]
+                    - button "Save" [ref=e199]:
+                      - img [ref=e200]
+                - generic [ref=e202]:
+                  - button "Sign up to see the company" [ref=e203]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Deloitte Consulting
+                    - img [ref=e204]
+                  - button "Sign up to see the company" [ref=e208]:
+                    - img [ref=e209]
+                - generic [ref=e213]:
+                  - img [ref=e214]
+                  - text: 1 weeks ago
+            - link "Manager - GST & Pre GST Advisory - Indirect Tax Mumbai 2 weeks ago" [ref=e217] [cursor=pointer]:
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - generic [ref=e220]:
+                    - heading "Manager - GST & Pre GST Advisory - Indirect Tax" [level=3] [ref=e222]:
+                      - link "Manager - GST & Pre GST Advisory - Indirect Tax" [ref=e223]:
+                        - /url: /in/jobs/manager-gst-pre-gst-advisory-indirect-tax-deloitte-consulting-mumbai--theirstack-657230177
+                    - generic [ref=e224]:
+                      - img [ref=e225]
+                      - text: Mumbai
+                  - group [ref=e228]:
+                    - button "Share" [ref=e230]:
+                      - img [ref=e231]
+                    - button "Save" [ref=e237]:
+                      - img [ref=e238]
+                - generic [ref=e240]:
+                  - button "Sign up to see the company" [ref=e241]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Deloitte Consulting
+                    - img [ref=e242]
+                  - button "Sign up to see the company" [ref=e246]:
+                    - img [ref=e247]
+                - generic [ref=e251]:
+                  - img [ref=e252]
+                  - text: 2 weeks ago
+            - link "Deputy Manager | GST | | Indirect Tax Mumbai 2 weeks ago" [ref=e255] [cursor=pointer]:
+              - generic [ref=e256]:
+                - generic [ref=e257]:
+                  - generic [ref=e258]:
+                    - heading "Deputy Manager | GST | | Indirect Tax" [level=3] [ref=e260]:
+                      - link "Deputy Manager | GST | | Indirect Tax" [ref=e261]:
+                        - /url: /in/jobs/deputy-manager-gst-indirect-tax-deloitte-consulting-mumbai--theirstack-657175726
+                    - generic [ref=e262]:
+                      - img [ref=e263]
+                      - text: Mumbai
+                  - group [ref=e266]:
+                    - button "Share" [ref=e268]:
+                      - img [ref=e269]
+                    - button "Save" [ref=e275]:
+                      - img [ref=e276]
+                - generic [ref=e278]:
+                  - button "Sign up to see the company" [ref=e279]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Deloitte Consulting
+                    - img [ref=e280]
+                  - button "Sign up to see the company" [ref=e284]:
+                    - img [ref=e285]
+                - generic [ref=e289]:
+                  - img [ref=e290]
+                  - text: 2 weeks ago
+            - link "GST - Indirect Tax Manager( Litigation ) Mumbai 2 months ago" [ref=e293] [cursor=pointer]:
+              - generic [ref=e294]:
+                - generic [ref=e295]:
+                  - generic [ref=e296]:
+                    - heading "GST - Indirect Tax Manager( Litigation )" [level=3] [ref=e298]:
+                      - link "GST - Indirect Tax Manager( Litigation )" [ref=e299]:
+                        - /url: /in/jobs/gst-indirect-tax-manager-litigation-arck-co-mumbai--theirstack-628785446
+                    - generic [ref=e300]:
+                      - img [ref=e301]
+                      - text: Mumbai
+                  - group [ref=e304]:
+                    - button "Share" [ref=e306]:
+                      - img [ref=e307]
+                    - button "Save" [ref=e313]:
+                      - img [ref=e314]
+                - generic [ref=e316]:
+                  - button "Sign up to see the company" [ref=e317]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Arck & Co
+                    - img [ref=e318]
+                  - button "Sign up to see the company" [ref=e322]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: ₹20,000 - ₹40,000 /year
+                    - img [ref=e323]
+                - generic [ref=e327]:
+                  - img [ref=e328]
+                  - text: 2 months ago
+            - link "Assistant Manager | GST | | Indirect Tax Mumbai 1 months ago" [ref=e331] [cursor=pointer]:
+              - generic [ref=e332]:
+                - generic [ref=e333]:
+                  - generic [ref=e334]:
+                    - heading "Assistant Manager | GST | | Indirect Tax" [level=3] [ref=e336]:
+                      - link "Assistant Manager | GST | | Indirect Tax" [ref=e337]:
+                        - /url: /in/jobs/assistant-manager-gst-indirect-tax-deloitte-consulting-mumbai--theirstack-642617167
+                    - generic [ref=e338]:
+                      - img [ref=e339]
+                      - text: Mumbai
+                  - group [ref=e342]:
+                    - button "Share" [ref=e344]:
+                      - img [ref=e345]
+                    - button "Save" [ref=e351]:
+                      - img [ref=e352]
+                - generic [ref=e354]:
+                  - button "Sign up to see the company" [ref=e355]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Deloitte Consulting
+                    - img [ref=e356]
+                  - button "Sign up to see the company" [ref=e360]:
+                    - img [ref=e361]
+                - generic [ref=e365]:
+                  - img [ref=e366]
+                  - text: 1 months ago
+            - link "Indirect Tax Manager -GST Compliance -FMCG - 3 Years -Mumbai Mumbai 1 weeks ago" [ref=e369] [cursor=pointer]:
+              - generic [ref=e370]:
+                - generic [ref=e371]:
+                  - generic [ref=e372]:
+                    - heading "Indirect Tax Manager -GST Compliance -FMCG - 3 Years -Mumbai" [level=3] [ref=e374]:
+                      - link "Indirect Tax Manager -GST Compliance -FMCG - 3 Years -Mumbai" [ref=e375]:
+                        - /url: /in/jobs/indirect-tax-manager-gst-compliance-fmcg-3-years-mumbai-crescendo-global-leadership-hiring-india-mum--theirstack-660617949
+                    - generic [ref=e376]:
+                      - img [ref=e377]
+                      - text: Mumbai
+                  - group [ref=e380]:
+                    - button "Share" [ref=e382]:
+                      - img [ref=e383]
+                    - button "Save" [ref=e389]:
+                      - img [ref=e390]
+                - generic [ref=e392]:
+                  - button "Sign up to see the company" [ref=e393]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Crescendo Global Leadership Hiring India
+                    - img [ref=e394]
+                  - button "Sign up to see the company" [ref=e398]:
+                    - img [ref=e399]
+                - generic [ref=e403]:
+                  - img [ref=e404]
+                  - text: 1 weeks ago
+        - generic [ref=e407]:
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - img [ref=e411]
+              - heading "About Bhuta Shah & Co" [level=3] [ref=e415]
+            - generic [ref=e416]:
+              - generic [ref=e417]:
+                - img [ref=e418]
+                - generic [ref=e421]: 9 active positions
+              - generic [ref=e422]:
+                - img [ref=e423]
+                - generic [ref=e426]: → Stable
+          - generic [ref=e429]:
+            - generic [ref=e430]:
+              - img [ref=e431]
+              - heading "Market Insights" [level=3] [ref=e433]
+            - generic [ref=e434]:
+              - generic [ref=e435]:
+                - generic [ref=e436]: "indirect-tax jobs:"
+                - generic [ref=e437]: 19,222
+              - generic [ref=e438]:
+                - generic [ref=e439]: "Competition:"
+                - generic [ref=e440]: Moderate
+            - link "View market report" [ref=e442] [cursor=pointer]:
+              - /url: /in/job-market
+              - text: View market report
+              - img [ref=e443]
+        - generic [ref=e445]:
+          - heading "Related" [level=2] [ref=e446]
+          - generic [ref=e447]:
+            - link "indirect-tax 17,272 listings" [ref=e448] [cursor=pointer]:
+              - /url: /in/skills/indirect-tax
+              - img [ref=e450]
+              - generic [ref=e452]:
+                - paragraph [ref=e453]: indirect-tax
+                - paragraph [ref=e454]: 17,272 listings
+              - img [ref=e455]
+            - link "valuation 3,505 listings" [ref=e457] [cursor=pointer]:
+              - /url: /in/skills/valuation
+              - img [ref=e459]
+              - generic [ref=e461]:
+                - paragraph [ref=e462]: valuation
+                - paragraph [ref=e463]: 3,505 listings
+              - img [ref=e464]
+            - link "Compliance 165,438 listings" [ref=e466] [cursor=pointer]:
+              - /url: /in/skills/compliance
+              - img [ref=e468]
+              - generic [ref=e470]:
+                - paragraph [ref=e471]: Compliance
+                - paragraph [ref=e472]: 165,438 listings
+              - img [ref=e473]
+            - link "indirect-tax jobs 2,237 listings" [ref=e475] [cursor=pointer]:
+              - /url: /in/jobs/role/indirect-tax
+              - img [ref=e477]
+              - generic [ref=e480]:
+                - paragraph [ref=e481]: indirect-tax jobs
+                - paragraph [ref=e482]: 2,237 listings
+              - img [ref=e483]
+            - link "indirect-tax salary 2,237 listings" [ref=e485] [cursor=pointer]:
+              - /url: /in/salaries/indirect-tax
+              - img [ref=e487]
+              - generic [ref=e489]:
+                - paragraph [ref=e490]: indirect-tax salary
+                - paragraph [ref=e491]: 2,237 listings
+              - img [ref=e492]
+            - link "Bhuta Shah & Co" [ref=e494] [cursor=pointer]:
+              - /url: /in/companies/bhuta-shah-co
+              - img [ref=e496]
+              - paragraph [ref=e501]: Bhuta Shah & Co
+              - img [ref=e502]
+            - link "Technology 3,628,759 listings" [ref=e504] [cursor=pointer]:
+              - /url: /in/industry/technology
+              - img [ref=e506]
+              - generic [ref=e510]:
+                - paragraph [ref=e511]: Technology
+                - paragraph [ref=e512]: 3,628,759 listings
+              - img [ref=e513]
+    - contentinfo [ref=e515]:
+      - generic [ref=e516]:
+        - generic [ref=e517]:
+          - generic [ref=e518]:
+            - img "BeBee" [ref=e520]
+            - paragraph [ref=e521]: Connecting talent with opportunities. Jobs, services, and freelance in one place.
+          - generic [ref=e522]:
+            - generic [ref=e523]: Navigation
+            - list [ref=e524]:
+              - listitem [ref=e525]:
+                - link "Search jobs" [ref=e526] [cursor=pointer]:
+                  - /url: /in/jobs
+              - listitem [ref=e527]:
+                - link "People" [ref=e528] [cursor=pointer]:
+                  - /url: /in/people
+              - listitem [ref=e529]:
+                - link "Companies" [ref=e530] [cursor=pointer]:
+                  - /url: /in/companies
+              - listitem [ref=e531]:
+                - link "Services" [ref=e532] [cursor=pointer]:
+                  - /url: /in/services
+              - listitem [ref=e533]:
+                - link "Talent" [ref=e534] [cursor=pointer]:
+                  - /url: /in/talent
+              - listitem [ref=e535]:
+                - link "Salary Guide" [ref=e536] [cursor=pointer]:
+                  - /url: /in/salaries
+              - listitem [ref=e537]:
+                - link "Job Market Report" [ref=e538] [cursor=pointer]:
+                  - /url: /in/job-market
+              - listitem [ref=e539]:
+                - link "Industries" [ref=e540] [cursor=pointer]:
+                  - /url: /in/industry
+              - listitem [ref=e541]:
+                - link "Job Market by City" [ref=e542] [cursor=pointer]:
+                  - /url: /in/market
+              - listitem [ref=e543]:
+                - link "Skills" [ref=e544] [cursor=pointer]:
+                  - /url: /in/skills
+              - listitem [ref=e545]:
+                - link "Professions" [ref=e546] [cursor=pointer]:
+                  - /url: /in/jobs/role
+              - listitem [ref=e547]:
+                - link "Job Market Trends" [ref=e548] [cursor=pointer]:
+                  - /url: /in/trends
+              - listitem [ref=e549]:
+                - link "Remote Jobs" [ref=e550] [cursor=pointer]:
+                  - /url: /in/jobs/remote
+              - listitem [ref=e551]:
+                - link "Blog" [ref=e552] [cursor=pointer]:
+                  - /url: /in/blog
+              - listitem [ref=e553]:
+                - link "Employer resources" [ref=e554] [cursor=pointer]:
+                  - /url: /in/employers
+          - generic [ref=e555]:
+            - generic [ref=e556]: BeBee
+            - list [ref=e557]:
+              - listitem [ref=e558]:
+                - link "For job seekers" [ref=e559] [cursor=pointer]:
+                  - /url: /in/for/job-seekers
+              - listitem [ref=e560]:
+                - link "For employers" [ref=e561] [cursor=pointer]:
+                  - /url: /in/for/employers
+              - listitem [ref=e562]:
+                - link "Offer your services" [ref=e563] [cursor=pointer]:
+                  - /url: /in/for/professionals
+              - listitem [ref=e564]:
+                - link "Find a professional" [ref=e565] [cursor=pointer]:
+                  - /url: /in/for/businesses
+              - listitem [ref=e566]:
+                - link "Bloggers" [ref=e567] [cursor=pointer]:
+                  - /url: /in/for/bloggers
+              - listitem [ref=e568]:
+                - link "About" [ref=e569] [cursor=pointer]:
+                  - /url: /in/about
+              - listitem [ref=e570]:
+                - link "How It Works" [ref=e571] [cursor=pointer]:
+                  - /url: /in/how-it-works
+              - listitem [ref=e572]:
+                - link "Help Center" [ref=e573] [cursor=pointer]:
+                  - /url: /in/help
+              - listitem [ref=e574]:
+                - link "Premium" [ref=e575] [cursor=pointer]:
+                  - /url: /in/pricing
+          - generic [ref=e576]:
+            - generic [ref=e577]: Academy & AI
+            - list [ref=e578]:
+              - listitem [ref=e579]:
+                - link "Academy" [ref=e580] [cursor=pointer]:
+                  - /url: /in/academy
+              - listitem [ref=e581]:
+                - link "Learn anything" [ref=e582] [cursor=pointer]:
+                  - /url: /in/academy#learn-anything
+              - listitem [ref=e583]:
+                - link "Skill Gap Analysis" [ref=e584] [cursor=pointer]:
+                  - /url: /in/academy#skill-gap
+              - listitem [ref=e585]:
+                - link "Interview Prep" [ref=e586] [cursor=pointer]:
+                  - /url: /in/academy#interview-prep
+              - listitem [ref=e587]:
+                - link "Career Coach" [ref=e588] [cursor=pointer]:
+                  - /url: /in/academy#career-coach
+          - generic [ref=e589]:
+            - generic [ref=e590]: Legal
+            - list [ref=e591]:
+              - listitem [ref=e592]:
+                - link "Privacy policy" [ref=e593] [cursor=pointer]:
+                  - /url: /privacy
+              - listitem [ref=e594]:
+                - link "Terms of use" [ref=e595] [cursor=pointer]:
+                  - /url: /terms
+              - listitem [ref=e596]:
+                - button "Cookie settings" [ref=e597] [cursor=pointer]
+              - listitem [ref=e598]:
+                - link "Publisher Opt-Out" [ref=e599] [cursor=pointer]:
+                  - /url: /in/opt-out
+              - listitem [ref=e600]:
+                - link "support@bebee.com" [ref=e601] [cursor=pointer]:
+                  - /url: mailto:support@bebee.com
+          - generic [ref=e602]:
+            - generic [ref=e603]: Log in
+            - list [ref=e604]:
+              - listitem [ref=e605]:
+                - link "Log in" [ref=e606] [cursor=pointer]:
+                  - /url: /auth/register?country=in
+              - listitem [ref=e607]:
+                - link "Sign up" [ref=e608] [cursor=pointer]:
+                  - /url: /auth/register?country=in
+        - generic [ref=e609]:
+          - button "Change country" [ref=e611] [cursor=pointer]:
+            - img "IN" [ref=e612]
+            - generic [ref=e613]: India
+            - img [ref=e614]
+          - paragraph [ref=e616]: © 2026 BeBee. All rights reserved.
+    - generic [ref=e619]:
+      - paragraph [ref=e620]:
+        - text: We use cookies to improve your experience.
+        - link "Learn more" [ref=e621] [cursor=pointer]:
+          - /url: /privacy#cookies
+      - generic [ref=e622]:
+        - button "Reject all" [ref=e623] [cursor=pointer]
+        - button "Accept all" [ref=e624] [cursor=pointer]
+  - alert [ref=e625]
